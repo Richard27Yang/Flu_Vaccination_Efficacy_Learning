@@ -1,7 +1,10 @@
 # Flu Vaccination Efficacy Evaluation
+
 Every year, prevention and control of influenza epidemics is a big challenge. Influenza vaccination is used to prevent influenza. This project uses machine learning methods to predict the efficacy of vaccine for preventing death caused by Influenza and pneumonia.
-=======
-## Flu is almost around everywhere in 2018. 
+
+# Flu is almost around everywhere in 2018. 
+
+<img src="./Results/2018-flu-propogation.gif" /> 
 
 Influenza (flu) is a mostly widely-spread contagious illness that occurs every season on everyone. Seasonal flu is a serious disease that causes illness, hospitalizations, and deaths every year in the United States. 
 Influenza could lead to influenza-related death every year occur in people for whom seasonal influenza infection was likely a contributor to the cause of death. CDC estimates that flu-associated deaths ranged from a low of about 3,000 to a high of about 49,000 people. 
