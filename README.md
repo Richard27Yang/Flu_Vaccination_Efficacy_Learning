@@ -1,4 +1,4 @@
-Flu is almost around everywhere in 2018. 
+##Flu is almost around everywhere in 2018. 
 
 Influenza (flu) is a mostly widely-spread contagious illness that occurs every season on everyone. Seasonal flu is a serious disease that causes illness, hospitalizations, and deaths every year in the United States. 
 Influenza could lead to influenza-related death every year occur in people for whom seasonal influenza infection was likely a contributor to the cause of death. CDC estimates that flu-associated deaths ranged from a low of about 3,000 to a high of about 49,000 people. 
