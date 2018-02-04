@@ -9,7 +9,7 @@ While we all can get flu, people are more likely to experience severe flu illnes
 
 The question on how well the flu vaccine protects against flu illness is crucial. This project is proposed to explore the efficacy of flu vaccine by data analysis of past year's flu level, flu-associated death, and flu vaccine taken by adults aged 65+ who have had a flu shot.
 
-# Methods
+# Approaches
 Data Mining
 Machine Learning
 # Data sources
