@@ -1,0 +1,919 @@
+,STATENAME,ACTIVITY LEVEL,WEEK,SEASON
+5614,Alabama,2,40,2017
+5615,Alabama,2,41,2017
+5616,Alabama,2,42,2017
+5617,Alabama,3,43,2017
+5618,Alabama,4,44,2017
+5619,Alabama,4,45,2017
+5620,Alabama,5,46,2017
+5621,Alabama,5,47,2017
+5622,Alabama,5,48,2017
+5623,Alabama,7,49,2017
+5624,Alabama,10,50,2017
+5625,Alabama,10,51,2017
+5626,Alabama,10,52,2017
+5627,Alabama,10,1,2017
+5628,Alabama,10,2,2017
+5629,Alabama,10,3,2017
+5630,Alabama,10,4,2017
+5631,Alaska,8,4,2017
+5632,Alaska,6,3,2017
+5633,Alaska,6,2,2017
+5634,Alaska,6,1,2017
+5635,Alaska,7,52,2017
+5636,Alaska,6,51,2017
+5637,Alaska,5,50,2017
+5638,Alaska,6,49,2017
+5639,Alaska,5,48,2017
+5640,Alaska,4,47,2017
+5641,Alaska,4,46,2017
+5642,Alaska,2,45,2017
+5643,Alaska,2,44,2017
+5644,Alaska,3,43,2017
+5645,Alaska,4,42,2017
+5646,Alaska,2,41,2017
+5647,Alaska,1,40,2017
+5648,Arizona,2,40,2017
+5649,Arizona,2,41,2017
+5650,Arizona,1,42,2017
+5651,Arizona,2,43,2017
+5652,Arizona,3,44,2017
+5653,Arizona,3,45,2017
+5654,Arizona,3,46,2017
+5655,Arizona,3,47,2017
+5656,Arizona,3,48,2017
+5657,Arizona,6,49,2017
+5658,Arizona,10,50,2017
+5659,Arizona,10,51,2017
+5660,Arizona,10,52,2017
+5661,Arizona,10,1,2017
+5662,Arizona,10,2,2017
+5663,Arizona,10,3,2017
+5664,Arizona,10,4,2017
+5665,Arkansas,10,4,2017
+5666,Arkansas,10,3,2017
+5667,Arkansas,10,2,2017
+5668,Arkansas,10,1,2017
+5669,Arkansas,10,52,2017
+5670,Arkansas,10,51,2017
+5671,Arkansas,10,50,2017
+5672,Arkansas,8,49,2017
+5673,Arkansas,4,48,2017
+5674,Arkansas,1,47,2017
+5675,Arkansas,3,46,2017
+5676,Arkansas,1,45,2017
+5677,Arkansas,1,44,2017
+5678,Arkansas,1,43,2017
+5679,Arkansas,1,42,2017
+5680,Arkansas,1,41,2017
+5681,Arkansas,1,40,2017
+5682,California,2,40,2017
+5683,California,1,41,2017
+5684,California,1,42,2017
+5685,California,1,43,2017
+5686,California,2,44,2017
+5687,California,2,45,2017
+5688,California,2,46,2017
+5689,California,3,47,2017
+5690,California,2,48,2017
+5691,California,4,49,2017
+5692,California,6,50,2017
+5693,California,10,51,2017
+5694,California,10,52,2017
+5695,California,10,1,2017
+5696,California,10,2,2017
+5697,California,8,3,2017
+5698,California,7,4,2017
+5699,Colorado,8,4,2017
+5700,Colorado,7,3,2017
+5701,Colorado,7,2,2017
+5702,Colorado,8,1,2017
+5703,Colorado,7,52,2017
+5704,Colorado,6,51,2017
+5705,Colorado,5,50,2017
+5706,Colorado,4,49,2017
+5707,Colorado,3,48,2017
+5708,Colorado,3,47,2017
+5709,Colorado,2,46,2017
+5710,Colorado,2,45,2017
+5711,Colorado,2,44,2017
+5712,Colorado,1,43,2017
+5713,Colorado,1,42,2017
+5714,Colorado,1,41,2017
+5715,Colorado,1,40,2017
+5716,Connecticut,1,40,2017
+5717,Connecticut,1,41,2017
+5718,Connecticut,1,42,2017
+5719,Connecticut,1,43,2017
+5720,Connecticut,1,44,2017
+5721,Connecticut,1,45,2017
+5722,Connecticut,1,46,2017
+5723,Connecticut,1,47,2017
+5724,Connecticut,2,48,2017
+5725,Connecticut,2,49,2017
+5726,Connecticut,3,50,2017
+5727,Connecticut,2,51,2017
+5728,Connecticut,3,52,2017
+5729,Connecticut,4,1,2017
+5730,Connecticut,5,2,2017
+5731,Connecticut,9,3,2017
+5732,Connecticut,9,4,2017
+5733,Delaware,5,4,2017
+5734,Delaware,2,3,2017
+5735,Delaware,1,2,2017
+5736,Delaware,1,1,2017
+5737,Delaware,1,52,2017
+5738,Delaware,1,51,2017
+5739,Delaware,1,50,2017
+5740,Delaware,1,49,2017
+5741,Delaware,1,48,2017
+5742,Delaware,1,47,2017
+5743,Delaware,1,46,2017
+5744,Delaware,1,45,2017
+5745,Delaware,1,44,2017
+5746,Delaware,1,43,2017
+5747,Delaware,1,42,2017
+5748,Delaware,1,41,2017
+5749,Delaware,1,40,2017
+5750,District of Columbia,2,40,2017
+5751,District of Columbia,2,41,2017
+5752,District of Columbia,2,42,2017
+5753,District of Columbia,2,43,2017
+5754,District of Columbia,2,44,2017
+5755,District of Columbia,3,45,2017
+5756,District of Columbia,3,46,2017
+5757,District of Columbia,3,47,2017
+5758,District of Columbia,4,48,2017
+5759,District of Columbia,4,49,2017
+5760,District of Columbia,4,50,2017
+5761,District of Columbia,3,51,2017
+5762,District of Columbia,5,52,2017
+5763,District of Columbia,5,1,2017
+5764,District of Columbia,5,2,2017
+5765,District of Columbia,7,3,2017
+5766,District of Columbia,10,4,2017
+5767,Florida,10,4,2017
+5768,Florida,10,3,2017
+5769,Florida,10,2,2017
+5770,Florida,5,1,2017
+5771,Florida,5,52,2017
+5772,Florida,4,51,2017
+5773,Florida,2,50,2017
+5774,Florida,1,49,2017
+5775,Florida,1,48,2017
+5776,Florida,1,47,2017
+5777,Florida,2,46,2017
+5778,Florida,2,45,2017
+5779,Florida,1,44,2017
+5780,Florida,1,43,2017
+5781,Florida,1,42,2017
+5782,Florida,1,41,2017
+5783,Florida,1,40,2017
+5784,Georgia,2,40,2017
+5785,Georgia,3,41,2017
+5786,Georgia,3,42,2017
+5787,Georgia,4,43,2017
+5788,Georgia,4,44,2017
+5789,Georgia,5,45,2017
+5790,Georgia,6,46,2017
+5791,Georgia,7,47,2017
+5792,Georgia,6,48,2017
+5793,Georgia,7,49,2017
+5794,Georgia,7,50,2017
+5795,Georgia,10,51,2017
+5796,Georgia,10,52,2017
+5797,Georgia,10,1,2017
+5798,Georgia,10,2,2017
+5799,Georgia,10,3,2017
+5800,Georgia,10,4,2017
+5801,Hawaii,8,4,2017
+5802,Hawaii,7,3,2017
+5803,Hawaii,8,2,2017
+5804,Hawaii,5,1,2017
+5805,Hawaii,7,52,2017
+5806,Hawaii,6,51,2017
+5807,Hawaii,3,50,2017
+5808,Hawaii,5,49,2017
+5809,Hawaii,5,48,2017
+5810,Hawaii,3,47,2017
+5811,Hawaii,3,46,2017
+5812,Hawaii,3,45,2017
+5813,Hawaii,2,44,2017
+5814,Hawaii,1,43,2017
+5815,Hawaii,1,42,2017
+5816,Hawaii,1,41,2017
+5817,Hawaii,1,40,2017
+5818,Idaho,1,40,2017
+5819,Idaho,1,41,2017
+5820,Idaho,1,42,2017
+5821,Idaho,1,43,2017
+5822,Idaho,1,44,2017
+5823,Idaho,1,45,2017
+5824,Idaho,1,46,2017
+5825,Idaho,1,47,2017
+5826,Idaho,2,48,2017
+5827,Idaho,1,49,2017
+5828,Idaho,1,50,2017
+5829,Idaho,3,51,2017
+5830,Idaho,1,52,2017
+5831,Idaho,5,1,2017
+5832,Idaho,7,2,2017
+5833,Idaho,6,3,2017
+5834,Idaho,6,4,2017
+5835,Illinois,10,4,2017
+5836,Illinois,10,3,2017
+5837,Illinois,10,2,2017
+5838,Illinois,10,1,2017
+5839,Illinois,10,52,2017
+5840,Illinois,10,51,2017
+5841,Illinois,6,50,2017
+5842,Illinois,3,49,2017
+5843,Illinois,2,48,2017
+5844,Illinois,1,47,2017
+5845,Illinois,1,46,2017
+5846,Illinois,1,45,2017
+5847,Illinois,1,44,2017
+5848,Illinois,1,43,2017
+5849,Illinois,1,42,2017
+5850,Illinois,1,41,2017
+5851,Illinois,1,40,2017
+5852,Indiana,1,40,2017
+5853,Indiana,1,41,2017
+5854,Indiana,1,42,2017
+5855,Indiana,1,43,2017
+5856,Indiana,2,44,2017
+5857,Indiana,1,45,2017
+5858,Indiana,1,46,2017
+5859,Indiana,1,47,2017
+5860,Indiana,3,48,2017
+5861,Indiana,4,49,2017
+5862,Indiana,3,50,2017
+5863,Indiana,9,51,2017
+5864,Indiana,10,52,2017
+5865,Indiana,10,1,2017
+5866,Indiana,10,2,2017
+5867,Indiana,10,3,2017
+5868,Indiana,10,4,2017
+5869,Iowa,10,4,2017
+5870,Iowa,9,3,2017
+5871,Iowa,8,2,2017
+5872,Iowa,5,1,2017
+5873,Iowa,8,52,2017
+5874,Iowa,3,51,2017
+5875,Iowa,2,50,2017
+5876,Iowa,2,49,2017
+5877,Iowa,1,48,2017
+5878,Iowa,1,47,2017
+5879,Iowa,1,46,2017
+5880,Iowa,1,45,2017
+5881,Iowa,1,44,2017
+5882,Iowa,1,43,2017
+5883,Iowa,1,42,2017
+5884,Iowa,1,41,2017
+5885,Iowa,1,40,2017
+5886,Kansas,1,40,2017
+5887,Kansas,1,41,2017
+5888,Kansas,1,42,2017
+5889,Kansas,1,43,2017
+5890,Kansas,1,44,2017
+5891,Kansas,1,45,2017
+5892,Kansas,1,46,2017
+5893,Kansas,2,47,2017
+5894,Kansas,1,48,2017
+5895,Kansas,3,49,2017
+5896,Kansas,7,50,2017
+5897,Kansas,10,51,2017
+5898,Kansas,10,52,2017
+5899,Kansas,10,1,2017
+5900,Kansas,10,2,2017
+5901,Kansas,10,3,2017
+5902,Kansas,10,4,2017
+5903,Kentucky,10,4,2017
+5904,Kentucky,10,3,2017
+5905,Kentucky,10,2,2017
+5906,Kentucky,10,1,2017
+5907,Kentucky,10,52,2017
+5908,Kentucky,10,51,2017
+5909,Kentucky,10,50,2017
+5910,Kentucky,6,49,2017
+5911,Kentucky,3,48,2017
+5912,Kentucky,2,47,2017
+5913,Kentucky,3,46,2017
+5914,Kentucky,1,45,2017
+5915,Kentucky,1,44,2017
+5916,Kentucky,1,43,2017
+5917,Kentucky,1,42,2017
+5918,Kentucky,1,41,2017
+5919,Kentucky,1,40,2017
+5920,Louisiana,3,40,2017
+5921,Louisiana,3,41,2017
+5922,Louisiana,4,42,2017
+5923,Louisiana,5,43,2017
+5924,Louisiana,7,44,2017
+5925,Louisiana,7,45,2017
+5926,Louisiana,8,46,2017
+5927,Louisiana,10,47,2017
+5928,Louisiana,10,48,2017
+5929,Louisiana,10,49,2017
+5930,Louisiana,10,50,2017
+5931,Louisiana,10,51,2017
+5932,Louisiana,10,52,2017
+5933,Louisiana,10,1,2017
+5934,Louisiana,10,2,2017
+5935,Louisiana,10,3,2017
+5936,Louisiana,10,4,2017
+5937,Maine,1,4,2017
+5938,Maine,1,3,2017
+5939,Maine,1,2,2017
+5940,Maine,1,1,2017
+5941,Maine,1,52,2017
+5942,Maine,1,51,2017
+5943,Maine,1,50,2017
+5944,Maine,1,49,2017
+5945,Maine,1,48,2017
+5946,Maine,1,47,2017
+5947,Maine,1,46,2017
+5948,Maine,1,45,2017
+5949,Maine,1,44,2017
+5950,Maine,1,43,2017
+5951,Maine,1,42,2017
+5952,Maine,1,41,2017
+5953,Maine,1,40,2017
+5954,Maryland,1,40,2017
+5955,Maryland,1,41,2017
+5956,Maryland,1,42,2017
+5957,Maryland,1,43,2017
+5958,Maryland,1,44,2017
+5959,Maryland,1,45,2017
+5960,Maryland,1,46,2017
+5961,Maryland,1,47,2017
+5962,Maryland,1,48,2017
+5963,Maryland,1,49,2017
+5964,Maryland,1,50,2017
+5965,Maryland,2,51,2017
+5966,Maryland,7,52,2017
+5967,Maryland,4,1,2017
+5968,Maryland,6,2,2017
+5969,Maryland,10,3,2017
+5970,Maryland,10,4,2017
+5971,Massachusetts,10,4,2017
+5972,Massachusetts,8,3,2017
+5973,Massachusetts,6,2,2017
+5974,Massachusetts,7,1,2017
+5975,Massachusetts,8,52,2017
+5976,Massachusetts,5,51,2017
+5977,Massachusetts,4,50,2017
+5978,Massachusetts,3,49,2017
+5979,Massachusetts,3,48,2017
+5980,Massachusetts,3,47,2017
+5981,Massachusetts,2,46,2017
+5982,Massachusetts,2,45,2017
+5983,Massachusetts,2,44,2017
+5984,Massachusetts,2,43,2017
+5985,Massachusetts,1,42,2017
+5986,Massachusetts,1,41,2017
+5987,Massachusetts,1,40,2017
+5988,Michigan,1,40,2017
+5989,Michigan,1,41,2017
+5990,Michigan,1,42,2017
+5991,Michigan,1,43,2017
+5992,Michigan,1,44,2017
+5993,Michigan,2,45,2017
+5994,Michigan,1,46,2017
+5995,Michigan,2,47,2017
+5996,Michigan,2,48,2017
+5997,Michigan,3,49,2017
+5998,Michigan,4,50,2017
+5999,Michigan,5,51,2017
+6000,Michigan,6,52,2017
+6001,Michigan,6,1,2017
+6002,Michigan,6,2,2017
+6003,Michigan,8,3,2017
+6004,Michigan,10,4,2017
+6005,Minnesota,10,4,2017
+6006,Minnesota,10,3,2017
+6007,Minnesota,9,2,2017
+6008,Minnesota,6,1,2017
+6009,Minnesota,4,52,2017
+6010,Minnesota,4,51,2017
+6011,Minnesota,2,50,2017
+6012,Minnesota,2,49,2017
+6013,Minnesota,1,48,2017
+6014,Minnesota,1,47,2017
+6015,Minnesota,1,46,2017
+6016,Minnesota,1,45,2017
+6017,Minnesota,1,44,2017
+6018,Minnesota,1,43,2017
+6019,Minnesota,1,42,2017
+6020,Minnesota,1,41,2017
+6021,Minnesota,1,40,2017
+6022,Mississippi,2,40,2017
+6023,Mississippi,1,41,2017
+6024,Mississippi,1,42,2017
+6025,Mississippi,3,43,2017
+6026,Mississippi,4,44,2017
+6027,Mississippi,8,45,2017
+6028,Mississippi,10,46,2017
+6029,Mississippi,10,47,2017
+6030,Mississippi,10,48,2017
+6031,Mississippi,10,49,2017
+6032,Mississippi,10,50,2017
+6033,Mississippi,10,51,2017
+6034,Mississippi,10,52,2017
+6035,Mississippi,10,1,2017
+6036,Mississippi,10,2,2017
+6037,Mississippi,10,3,2017
+6038,Mississippi,10,4,2017
+6039,Missouri,10,4,2017
+6040,Missouri,10,3,2017
+6041,Missouri,10,2,2017
+6042,Missouri,10,1,2017
+6043,Missouri,10,52,2017
+6044,Missouri,10,51,2017
+6045,Missouri,5,50,2017
+6046,Missouri,3,49,2017
+6047,Missouri,1,48,2017
+6048,Missouri,1,47,2017
+6049,Missouri,1,46,2017
+6050,Missouri,1,45,2017
+6051,Missouri,1,44,2017
+6052,Missouri,1,43,2017
+6053,Missouri,1,42,2017
+6054,Missouri,1,41,2017
+6055,Missouri,1,40,2017
+6056,Montana,1,40,2017
+6057,Montana,1,41,2017
+6058,Montana,1,42,2017
+6059,Montana,1,43,2017
+6060,Montana,1,44,2017
+6061,Montana,1,45,2017
+6062,Montana,1,46,2017
+6063,Montana,1,47,2017
+6064,Montana,1,48,2017
+6065,Montana,1,49,2017
+6066,Montana,1,50,2017
+6067,Montana,1,51,2017
+6068,Montana,1,52,2017
+6069,Montana,1,1,2017
+6070,Montana,2,2,2017
+6071,Montana,2,3,2017
+6072,Montana,2,4,2017
+6073,Nebraska,10,4,2017
+6074,Nebraska,9,3,2017
+6075,Nebraska,6,2,2017
+6076,Nebraska,10,1,2017
+6077,Nebraska,10,52,2017
+6078,Nebraska,8,51,2017
+6079,Nebraska,6,50,2017
+6080,Nebraska,3,49,2017
+6081,Nebraska,3,48,2017
+6082,Nebraska,5,47,2017
+6083,Nebraska,3,46,2017
+6084,Nebraska,3,45,2017
+6085,Nebraska,2,44,2017
+6086,Nebraska,2,43,2017
+6087,Nebraska,2,42,2017
+6088,Nebraska,1,41,2017
+6089,Nebraska,1,40,2017
+6090,Nevada,1,40,2017
+6091,Nevada,1,41,2017
+6092,Nevada,1,42,2017
+6093,Nevada,1,43,2017
+6094,Nevada,2,44,2017
+6095,Nevada,2,45,2017
+6096,Nevada,2,46,2017
+6097,Nevada,2,47,2017
+6098,Nevada,2,48,2017
+6099,Nevada,3,49,2017
+6100,Nevada,6,50,2017
+6101,Nevada,7,51,2017
+6102,Nevada,10,52,2017
+6103,Nevada,9,1,2017
+6104,Nevada,7,2,2017
+6105,Nevada,6,3,2017
+6106,Nevada,8,4,2017
+6107,New Hampshire,9,4,2017
+6108,New Hampshire,8,3,2017
+6109,New Hampshire,5,2,2017
+6110,New Hampshire,4,1,2017
+6111,New Hampshire,1,52,2017
+6112,New Hampshire,1,51,2017
+6113,New Hampshire,1,50,2017
+6114,New Hampshire,1,49,2017
+6115,New Hampshire,1,48,2017
+6116,New Hampshire,1,47,2017
+6117,New Hampshire,1,46,2017
+6118,New Hampshire,1,45,2017
+6119,New Hampshire,1,44,2017
+6120,New Hampshire,1,43,2017
+6121,New Hampshire,1,42,2017
+6122,New Hampshire,1,41,2017
+6123,New Hampshire,1,40,2017
+6124,New Jersey,1,40,2017
+6125,New Jersey,1,41,2017
+6126,New Jersey,1,42,2017
+6127,New Jersey,1,43,2017
+6128,New Jersey,2,44,2017
+6129,New Jersey,2,45,2017
+6130,New Jersey,2,46,2017
+6131,New Jersey,3,47,2017
+6132,New Jersey,3,48,2017
+6133,New Jersey,3,49,2017
+6134,New Jersey,4,50,2017
+6135,New Jersey,5,51,2017
+6136,New Jersey,8,52,2017
+6137,New Jersey,9,1,2017
+6138,New Jersey,8,2,2017
+6139,New Jersey,10,3,2017
+6140,New Jersey,10,4,2017
+6141,New Mexico,10,4,2017
+6142,New Mexico,10,3,2017
+6143,New Mexico,10,2,2017
+6144,New Mexico,10,1,2017
+6145,New Mexico,10,52,2017
+6146,New Mexico,7,51,2017
+6147,New Mexico,5,50,2017
+6148,New Mexico,3,49,2017
+6149,New Mexico,1,48,2017
+6150,New Mexico,3,47,2017
+6151,New Mexico,3,46,2017
+6152,New Mexico,2,45,2017
+6153,New Mexico,1,44,2017
+6154,New Mexico,1,43,2017
+6155,New Mexico,1,42,2017
+6156,New Mexico,1,41,2017
+6157,New Mexico,1,40,2017
+6158,New York,1,40,2017
+6159,New York,1,41,2017
+6160,New York,1,42,2017
+6161,New York,1,43,2017
+6162,New York,1,44,2017
+6163,New York,1,45,2017
+6164,New York,1,46,2017
+6165,New York,1,47,2017
+6166,New York,1,48,2017
+6167,New York,1,49,2017
+6168,New York,2,50,2017
+6169,New York,5,51,2017
+6170,New York,4,52,2017
+6171,New York,7,1,2017
+6172,New York,10,2,2017
+6173,New York,10,3,2017
+6174,New York,10,4,2017
+6175,North Carolina,10,4,2017
+6176,North Carolina,10,3,2017
+6177,North Carolina,9,2,2017
+6178,North Carolina,5,1,2017
+6179,North Carolina,6,52,2017
+6180,North Carolina,1,51,2017
+6181,North Carolina,1,50,2017
+6182,North Carolina,2,49,2017
+6183,North Carolina,1,48,2017
+6184,North Carolina,3,47,2017
+6185,North Carolina,2,46,2017
+6186,North Carolina,1,45,2017
+6187,North Carolina,1,44,2017
+6188,North Carolina,1,43,2017
+6189,North Carolina,1,42,2017
+6190,North Carolina,1,41,2017
+6191,North Carolina,1,40,2017
+6192,North Dakota,1,40,2017
+6193,North Dakota,1,41,2017
+6194,North Dakota,1,42,2017
+6195,North Dakota,1,43,2017
+6196,North Dakota,1,44,2017
+6197,North Dakota,1,45,2017
+6198,North Dakota,1,46,2017
+6199,North Dakota,1,47,2017
+6200,North Dakota,1,48,2017
+6201,North Dakota,1,49,2017
+6202,North Dakota,1,50,2017
+6203,North Dakota,5,51,2017
+6204,North Dakota,2,52,2017
+6205,North Dakota,2,1,2017
+6206,North Dakota,6,2,2017
+6207,North Dakota,4,3,2017
+6208,North Dakota,4,4,2017
+6209,Ohio,9,4,2017
+6210,Ohio,8,3,2017
+6211,Ohio,6,2,2017
+6212,Ohio,6,1,2017
+6213,Ohio,7,52,2017
+6214,Ohio,2,51,2017
+6215,Ohio,1,50,2017
+6216,Ohio,1,49,2017
+6217,Ohio,1,48,2017
+6218,Ohio,1,47,2017
+6219,Ohio,1,46,2017
+6220,Ohio,1,45,2017
+6221,Ohio,1,44,2017
+6222,Ohio,1,43,2017
+6223,Ohio,1,42,2017
+6224,Ohio,1,41,2017
+6225,Ohio,1,40,2017
+6226,Oklahoma,1,40,2017
+6227,Oklahoma,1,41,2017
+6228,Oklahoma,1,42,2017
+6229,Oklahoma,1,43,2017
+6230,Oklahoma,2,44,2017
+6231,Oklahoma,3,45,2017
+6232,Oklahoma,3,46,2017
+6233,Oklahoma,4,47,2017
+6234,Oklahoma,4,48,2017
+6235,Oklahoma,4,49,2017
+6236,Oklahoma,10,50,2017
+6237,Oklahoma,10,51,2017
+6238,Oklahoma,10,52,2017
+6239,Oklahoma,10,1,2017
+6240,Oklahoma,10,2,2017
+6241,Oklahoma,10,3,2017
+6242,Oklahoma,10,4,2017
+6243,Oregon,10,4,2017
+6244,Oregon,10,3,2017
+6245,Oregon,10,2,2017
+6246,Oregon,10,1,2017
+6247,Oregon,10,52,2017
+6248,Oregon,9,51,2017
+6249,Oregon,5,50,2017
+6250,Oregon,4,49,2017
+6251,Oregon,3,48,2017
+6252,Oregon,3,47,2017
+6253,Oregon,2,46,2017
+6254,Oregon,2,45,2017
+6255,Oregon,2,44,2017
+6256,Oregon,1,43,2017
+6257,Oregon,1,42,2017
+6258,Oregon,1,41,2017
+6259,Oregon,1,40,2017
+6260,Pennsylvania,1,40,2017
+6261,Pennsylvania,1,41,2017
+6262,Pennsylvania,1,42,2017
+6263,Pennsylvania,1,43,2017
+6264,Pennsylvania,2,44,2017
+6265,Pennsylvania,2,45,2017
+6266,Pennsylvania,2,46,2017
+6267,Pennsylvania,2,47,2017
+6268,Pennsylvania,2,48,2017
+6269,Pennsylvania,2,49,2017
+6270,Pennsylvania,3,50,2017
+6271,Pennsylvania,3,51,2017
+6272,Pennsylvania,6,52,2017
+6273,Pennsylvania,6,1,2017
+6274,Pennsylvania,7,2,2017
+6275,Pennsylvania,10,3,2017
+6276,Pennsylvania,10,4,2017
+6277,Rhode Island,10,4,2017
+6278,Rhode Island,10,3,2017
+6279,Rhode Island,7,2,2017
+6280,Rhode Island,5,1,2017
+6281,Rhode Island,2,52,2017
+6282,Rhode Island,3,51,2017
+6283,Rhode Island,2,50,2017
+6284,Rhode Island,3,49,2017
+6285,Rhode Island,1,48,2017
+6286,Rhode Island,1,47,2017
+6287,Rhode Island,1,46,2017
+6288,Rhode Island,1,45,2017
+6289,Rhode Island,1,44,2017
+6290,Rhode Island,1,43,2017
+6291,Rhode Island,1,42,2017
+6292,Rhode Island,1,41,2017
+6293,Rhode Island,1,40,2017
+6294,South Carolina,2,40,2017
+6295,South Carolina,1,41,2017
+6296,South Carolina,2,42,2017
+6297,South Carolina,5,43,2017
+6298,South Carolina,6,44,2017
+6299,South Carolina,6,45,2017
+6300,South Carolina,6,46,2017
+6301,South Carolina,10,47,2017
+6302,South Carolina,10,48,2017
+6303,South Carolina,10,49,2017
+6304,South Carolina,10,50,2017
+6305,South Carolina,10,51,2017
+6306,South Carolina,10,52,2017
+6307,South Carolina,10,1,2017
+6308,South Carolina,10,2,2017
+6309,South Carolina,10,3,2017
+6310,South Carolina,10,4,2017
+6311,South Dakota,9,4,2017
+6312,South Dakota,9,3,2017
+6313,South Dakota,7,2,2017
+6314,South Dakota,6,1,2017
+6315,South Dakota,8,52,2017
+6316,South Dakota,5,51,2017
+6317,South Dakota,4,50,2017
+6318,South Dakota,4,49,2017
+6319,South Dakota,4,48,2017
+6320,South Dakota,4,47,2017
+6321,South Dakota,6,46,2017
+6322,South Dakota,4,45,2017
+6323,South Dakota,3,44,2017
+6324,South Dakota,3,43,2017
+6325,South Dakota,2,42,2017
+6326,South Dakota,2,41,2017
+6327,South Dakota,1,40,2017
+6328,Tennessee,1,40,2017
+6329,Tennessee,1,41,2017
+6330,Tennessee,1,42,2017
+6331,Tennessee,1,43,2017
+6332,Tennessee,1,44,2017
+6333,Tennessee,1,45,2017
+6334,Tennessee,1,46,2017
+6335,Tennessee,1,47,2017
+6336,Tennessee,1,48,2017
+6337,Tennessee,1,49,2017
+6338,Tennessee,2,50,2017
+6339,Tennessee,9,51,2017
+6340,Tennessee,7,52,2017
+6341,Tennessee,10,1,2017
+6342,Tennessee,10,2,2017
+6343,Tennessee,10,3,2017
+6344,Tennessee,10,4,2017
+6345,Texas,10,4,2017
+6346,Texas,10,3,2017
+6347,Texas,10,2,2017
+6348,Texas,10,1,2017
+6349,Texas,10,52,2017
+6350,Texas,10,51,2017
+6351,Texas,10,50,2017
+6352,Texas,9,49,2017
+6353,Texas,7,48,2017
+6354,Texas,5,47,2017
+6355,Texas,5,46,2017
+6356,Texas,3,45,2017
+6357,Texas,3,44,2017
+6358,Texas,1,43,2017
+6359,Texas,1,42,2017
+6360,Texas,1,41,2017
+6361,Texas,1,40,2017
+6362,Utah,1,40,2017
+6363,Utah,1,41,2017
+6364,Utah,1,42,2017
+6365,Utah,1,43,2017
+6366,Utah,1,44,2017
+6367,Utah,1,45,2017
+6368,Utah,1,46,2017
+6369,Utah,1,47,2017
+6370,Utah,1,48,2017
+6371,Utah,1,49,2017
+6372,Utah,1,50,2017
+6373,Utah,1,51,2017
+6374,Utah,4,52,2017
+6375,Utah,3,1,2017
+6376,Utah,4,2,2017
+6377,Utah,5,3,2017
+6378,Utah,3,4,2017
+6379,Vermont,10,4,2017
+6380,Vermont,7,3,2017
+6381,Vermont,5,2,2017
+6382,Vermont,4,1,2017
+6383,Vermont,3,52,2017
+6384,Vermont,1,51,2017
+6385,Vermont,1,50,2017
+6386,Vermont,1,49,2017
+6387,Vermont,1,48,2017
+6388,Vermont,1,47,2017
+6389,Vermont,1,46,2017
+6390,Vermont,1,45,2017
+6391,Vermont,1,44,2017
+6392,Vermont,1,43,2017
+6393,Vermont,1,42,2017
+6394,Vermont,1,41,2017
+6395,Vermont,1,40,2017
+6396,Virginia,1,40,2017
+6397,Virginia,1,41,2017
+6398,Virginia,2,42,2017
+6399,Virginia,2,43,2017
+6400,Virginia,2,44,2017
+6401,Virginia,3,45,2017
+6402,Virginia,3,46,2017
+6403,Virginia,4,47,2017
+6404,Virginia,4,48,2017
+6405,Virginia,4,49,2017
+6406,Virginia,5,50,2017
+6407,Virginia,6,51,2017
+6408,Virginia,9,52,2017
+6409,Virginia,10,1,2017
+6410,Virginia,10,2,2017
+6411,Virginia,10,3,2017
+6412,Virginia,10,4,2017
+6413,Washington,4,4,2017
+6414,Washington,8,3,2017
+6415,Washington,10,2,2017
+6416,Washington,10,1,2017
+6417,Washington,10,52,2017
+6418,Washington,1,51,2017
+6419,Washington,1,50,2017
+6420,Washington,1,49,2017
+6421,Washington,1,48,2017
+6422,Washington,1,47,2017
+6423,Washington,1,46,2017
+6424,Washington,1,45,2017
+6425,Washington,1,44,2017
+6426,Washington,1,43,2017
+6427,Washington,1,42,2017
+6428,Washington,1,41,2017
+6429,Washington,1,40,2017
+6430,West Virginia,1,40,2017
+6431,West Virginia,1,41,2017
+6432,West Virginia,1,42,2017
+6433,West Virginia,1,43,2017
+6434,West Virginia,1,44,2017
+6435,West Virginia,1,45,2017
+6436,West Virginia,1,46,2017
+6437,West Virginia,3,47,2017
+6438,West Virginia,1,48,2017
+6439,West Virginia,1,49,2017
+6440,West Virginia,5,50,2017
+6441,West Virginia,9,51,2017
+6442,West Virginia,10,52,2017
+6443,West Virginia,10,1,2017
+6444,West Virginia,10,2,2017
+6445,West Virginia,10,3,2017
+6446,West Virginia,10,4,2017
+6447,Wisconsin,9,4,2017
+6448,Wisconsin,7,3,2017
+6449,Wisconsin,8,2,2017
+6450,Wisconsin,7,1,2017
+6451,Wisconsin,5,52,2017
+6452,Wisconsin,4,51,2017
+6453,Wisconsin,1,50,2017
+6454,Wisconsin,2,49,2017
+6455,Wisconsin,1,48,2017
+6456,Wisconsin,1,47,2017
+6457,Wisconsin,1,46,2017
+6458,Wisconsin,1,45,2017
+6459,Wisconsin,1,44,2017
+6460,Wisconsin,1,43,2017
+6461,Wisconsin,1,42,2017
+6462,Wisconsin,1,41,2017
+6463,Wisconsin,1,40,2017
+6464,Wyoming,1,40,2017
+6465,Wyoming,3,41,2017
+6466,Wyoming,1,42,2017
+6467,Wyoming,3,43,2017
+6468,Wyoming,3,44,2017
+6469,Wyoming,2,45,2017
+6470,Wyoming,1,46,2017
+6471,Wyoming,1,47,2017
+6472,Wyoming,2,48,2017
+6473,Wyoming,3,49,2017
+6474,Wyoming,3,50,2017
+6475,Wyoming,5,51,2017
+6476,Wyoming,10,52,2017
+6477,Wyoming,10,1,2017
+6478,Wyoming,10,2,2017
+6479,Wyoming,10,3,2017
+6480,Wyoming,10,4,2017
+6481,Puerto Rico,7,4,2017
+6482,Puerto Rico,8,3,2017
+6483,Puerto Rico,10,2,2017
+6484,Puerto Rico,7,1,2017
+6485,Puerto Rico,7,52,2017
+6486,Puerto Rico,8,51,2017
+6487,Puerto Rico,7,50,2017
+6488,Puerto Rico,4,49,2017
+6489,Puerto Rico,6,48,2017
+6490,Puerto Rico,4,47,2017
+6491,Puerto Rico,6,46,2017
+6492,Puerto Rico,3,45,2017
+6493,Puerto Rico,3,44,2017
+6494,Puerto Rico,1,43,2017
+6495,Puerto Rico,1,42,2017
+6496,Puerto Rico,1,41,2017
+6497,Puerto Rico,1,40,2017
+6498,Virgin Islands,0,40,2017
+6499,Virgin Islands,0,41,2017
+6500,Virgin Islands,0,42,2017
+6501,Virgin Islands,0,43,2017
+6502,Virgin Islands,0,44,2017
+6503,Virgin Islands,0,45,2017
+6504,Virgin Islands,1,46,2017
+6505,Virgin Islands,1,47,2017
+6506,Virgin Islands,0,48,2017
+6507,Virgin Islands,0,49,2017
+6508,Virgin Islands,1,50,2017
+6509,Virgin Islands,0,51,2017
+6510,Virgin Islands,0,52,2017
+6511,Virgin Islands,1,1,2017
+6512,Virgin Islands,0,2,2017
+6513,Virgin Islands,2,3,2017
+6514,Virgin Islands,0,4,2017
+6515,New York City,10,4,2017
+6516,New York City,10,3,2017
+6517,New York City,8,2,2017
+6518,New York City,8,1,2017
+6519,New York City,8,52,2017
+6520,New York City,6,51,2017
+6521,New York City,5,50,2017
+6522,New York City,4,49,2017
+6523,New York City,2,48,2017
+6524,New York City,3,47,2017
+6525,New York City,4,46,2017
+6526,New York City,2,45,2017
+6527,New York City,2,44,2017
+6528,New York City,2,43,2017
+6529,New York City,2,42,2017
+6530,New York City,1,41,2017
+6531,New York City,1,40,2017
