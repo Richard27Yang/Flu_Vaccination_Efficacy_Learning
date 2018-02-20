@@ -1,0 +1,1611 @@
+"Influenza Hospitalization Rates (per 100,000 population) for the FluSurv-NET Network (downloaded on "Feb-14-2018)
+Influenza Division - Centers for Disease Control and Prevention.
+CATCHMENT,NETWORK,SEASON,MMWR-YEAR,MMWR-WEEK,AGE CATEGORY,CUMULATIVE RATE,WEEKLY RATE 
+Entire Network,FluSurv-NET,2009-10,2009,35,0-4 yr,0.5,0.5
+Entire Network,FluSurv-NET,2009-10,2009,36,0-4 yr,2.5,2
+Entire Network,FluSurv-NET,2009-10,2009,37,0-4 yr,4.6,2
+Entire Network,FluSurv-NET,2009-10,2009,38,0-4 yr,6.7,2.1
+Entire Network,FluSurv-NET,2009-10,2009,39,0-4 yr,10.9,4.3
+Entire Network,FluSurv-NET,2009-10,2009,40,0-4 yr,18.1,7.2
+Entire Network,FluSurv-NET,2009-10,2009,41,0-4 yr,28.3,10.2
+Entire Network,FluSurv-NET,2009-10,2009,42,0-4 yr,39.1,10.8
+Entire Network,FluSurv-NET,2009-10,2009,43,0-4 yr,47.3,8.2
+Entire Network,FluSurv-NET,2009-10,2009,44,0-4 yr,53.3,6
+Entire Network,FluSurv-NET,2009-10,2009,45,0-4 yr,57.5,4.2
+Entire Network,FluSurv-NET,2009-10,2009,46,0-4 yr,60.1,2.6
+Entire Network,FluSurv-NET,2009-10,2009,47,0-4 yr,61.6,1.5
+Entire Network,FluSurv-NET,2009-10,2009,48,0-4 yr,62.9,1.3
+Entire Network,FluSurv-NET,2009-10,2009,49,0-4 yr,64.1,1.3
+Entire Network,FluSurv-NET,2009-10,2009,50,0-4 yr,65.1,1
+Entire Network,FluSurv-NET,2009-10,2009,51,0-4 yr,66.3,1.2
+Entire Network,FluSurv-NET,2009-10,2009,52,0-4 yr,67.4,1.1
+Entire Network,FluSurv-NET,2009-10,2010,1,0-4 yr,68.4,1
+Entire Network,FluSurv-NET,2009-10,2010,2,0-4 yr,69,0.6
+Entire Network,FluSurv-NET,2009-10,2010,3,0-4 yr,70.3,1.3
+Entire Network,FluSurv-NET,2009-10,2010,4,0-4 yr,71.3,1
+Entire Network,FluSurv-NET,2009-10,2010,5,0-4 yr,72.4,1.1
+Entire Network,FluSurv-NET,2009-10,2010,6,0-4 yr,73,0.6
+Entire Network,FluSurv-NET,2009-10,2010,7,0-4 yr,73.7,0.6
+Entire Network,FluSurv-NET,2009-10,2010,8,0-4 yr,74.2,0.5
+Entire Network,FluSurv-NET,2009-10,2010,9,0-4 yr,74.7,0.5
+Entire Network,FluSurv-NET,2009-10,2010,10,0-4 yr,75.1,0.4
+Entire Network,FluSurv-NET,2009-10,2010,11,0-4 yr,75.5,0.4
+Entire Network,FluSurv-NET,2009-10,2010,12,0-4 yr,75.8,0.3
+Entire Network,FluSurv-NET,2009-10,2010,13,0-4 yr,76.1,0.3
+Entire Network,FluSurv-NET,2009-10,2010,14,0-4 yr,76.5,0.4
+Entire Network,FluSurv-NET,2009-10,2010,15,0-4 yr,76.8,0.3
+Entire Network,FluSurv-NET,2009-10,2010,16,0-4 yr,77.2,0.4
+Entire Network,FluSurv-NET,2009-10,2010,17,0-4 yr,77.4,0.2
+Entire Network,FluSurv-NET,2009-10,2009,35,5-17 yr,0.3,0.3
+Entire Network,FluSurv-NET,2009-10,2009,36,5-17 yr,1.2,0.9
+Entire Network,FluSurv-NET,2009-10,2009,37,5-17 yr,2.1,0.8
+Entire Network,FluSurv-NET,2009-10,2009,38,5-17 yr,3.4,1.3
+Entire Network,FluSurv-NET,2009-10,2009,39,5-17 yr,5.4,2
+Entire Network,FluSurv-NET,2009-10,2009,40,5-17 yr,9.1,3.7
+Entire Network,FluSurv-NET,2009-10,2009,41,5-17 yr,13.5,4.4
+Entire Network,FluSurv-NET,2009-10,2009,42,5-17 yr,17.6,4.1
+Entire Network,FluSurv-NET,2009-10,2009,43,5-17 yr,21.1,3.6
+Entire Network,FluSurv-NET,2009-10,2009,44,5-17 yr,23.4,2.3
+Entire Network,FluSurv-NET,2009-10,2009,45,5-17 yr,24.6,1.1
+Entire Network,FluSurv-NET,2009-10,2009,46,5-17 yr,25.4,0.8
+Entire Network,FluSurv-NET,2009-10,2009,47,5-17 yr,25.8,0.4
+Entire Network,FluSurv-NET,2009-10,2009,48,5-17 yr,26,0.2
+Entire Network,FluSurv-NET,2009-10,2009,49,5-17 yr,26.2,0.2
+Entire Network,FluSurv-NET,2009-10,2009,50,5-17 yr,26.4,0.2
+Entire Network,FluSurv-NET,2009-10,2009,51,5-17 yr,26.5,0.1
+Entire Network,FluSurv-NET,2009-10,2009,52,5-17 yr,26.5,0
+Entire Network,FluSurv-NET,2009-10,2010,1,5-17 yr,26.6,0.1
+Entire Network,FluSurv-NET,2009-10,2010,2,5-17 yr,26.7,0.1
+Entire Network,FluSurv-NET,2009-10,2010,3,5-17 yr,26.7,0.1
+Entire Network,FluSurv-NET,2009-10,2010,4,5-17 yr,26.7,0
+Entire Network,FluSurv-NET,2009-10,2010,5,5-17 yr,26.8,0
+Entire Network,FluSurv-NET,2009-10,2010,6,5-17 yr,26.8,0
+Entire Network,FluSurv-NET,2009-10,2010,7,5-17 yr,26.9,0
+Entire Network,FluSurv-NET,2009-10,2010,8,5-17 yr,26.9,0.1
+Entire Network,FluSurv-NET,2009-10,2010,9,5-17 yr,27,0
+Entire Network,FluSurv-NET,2009-10,2010,10,5-17 yr,27,0
+Entire Network,FluSurv-NET,2009-10,2010,11,5-17 yr,27.1,0.1
+Entire Network,FluSurv-NET,2009-10,2010,12,5-17 yr,27.2,0.1
+Entire Network,FluSurv-NET,2009-10,2010,13,5-17 yr,27.2,0
+Entire Network,FluSurv-NET,2009-10,2010,14,5-17 yr,27.2,0
+Entire Network,FluSurv-NET,2009-10,2010,15,5-17 yr,27.2,0
+Entire Network,FluSurv-NET,2009-10,2010,16,5-17 yr,27.2,0
+Entire Network,FluSurv-NET,2009-10,2010,17,5-17 yr,27.2,0
+Entire Network,FluSurv-NET,2009-10,2009,35,18-49 yr,0.3,0.3
+Entire Network,FluSurv-NET,2009-10,2009,36,18-49 yr,1.1,0.8
+Entire Network,FluSurv-NET,2009-10,2009,37,18-49 yr,1.8,0.7
+Entire Network,FluSurv-NET,2009-10,2009,38,18-49 yr,2.7,0.9
+Entire Network,FluSurv-NET,2009-10,2009,39,18-49 yr,4.1,1.4
+Entire Network,FluSurv-NET,2009-10,2009,40,18-49 yr,6.2,2.1
+Entire Network,FluSurv-NET,2009-10,2009,41,18-49 yr,9.2,3
+Entire Network,FluSurv-NET,2009-10,2009,42,18-49 yr,12.3,3.1
+Entire Network,FluSurv-NET,2009-10,2009,43,18-49 yr,15.1,2.9
+Entire Network,FluSurv-NET,2009-10,2009,44,18-49 yr,17.4,2.2
+Entire Network,FluSurv-NET,2009-10,2009,45,18-49 yr,18.7,1.4
+Entire Network,FluSurv-NET,2009-10,2009,46,18-49 yr,19.8,1
+Entire Network,FluSurv-NET,2009-10,2009,47,18-49 yr,20.4,0.6
+Entire Network,FluSurv-NET,2009-10,2009,48,18-49 yr,20.8,0.4
+Entire Network,FluSurv-NET,2009-10,2009,49,18-49 yr,21,0.3
+Entire Network,FluSurv-NET,2009-10,2009,50,18-49 yr,21.2,0.2
+Entire Network,FluSurv-NET,2009-10,2009,51,18-49 yr,21.3,0.1
+Entire Network,FluSurv-NET,2009-10,2009,52,18-49 yr,21.5,0.2
+Entire Network,FluSurv-NET,2009-10,2010,1,18-49 yr,21.7,0.1
+Entire Network,FluSurv-NET,2009-10,2010,2,18-49 yr,21.8,0.2
+Entire Network,FluSurv-NET,2009-10,2010,3,18-49 yr,22,0.2
+Entire Network,FluSurv-NET,2009-10,2010,4,18-49 yr,22.1,0.1
+Entire Network,FluSurv-NET,2009-10,2010,5,18-49 yr,22.2,0.1
+Entire Network,FluSurv-NET,2009-10,2010,6,18-49 yr,22.3,0.1
+Entire Network,FluSurv-NET,2009-10,2010,7,18-49 yr,22.5,0.1
+Entire Network,FluSurv-NET,2009-10,2010,8,18-49 yr,22.6,0.2
+Entire Network,FluSurv-NET,2009-10,2010,9,18-49 yr,22.8,0.2
+Entire Network,FluSurv-NET,2009-10,2010,10,18-49 yr,23,0.2
+Entire Network,FluSurv-NET,2009-10,2010,11,18-49 yr,23.1,0.1
+Entire Network,FluSurv-NET,2009-10,2010,12,18-49 yr,23.2,0.1
+Entire Network,FluSurv-NET,2009-10,2010,13,18-49 yr,23.3,0.1
+Entire Network,FluSurv-NET,2009-10,2010,14,18-49 yr,23.3,0.1
+Entire Network,FluSurv-NET,2009-10,2010,15,18-49 yr,23.4,0
+Entire Network,FluSurv-NET,2009-10,2010,16,18-49 yr,23.4,0
+Entire Network,FluSurv-NET,2009-10,2010,17,18-49 yr,23.4,0
+Entire Network,FluSurv-NET,2009-10,2009,35,50-64 yr,0.3,0.3
+Entire Network,FluSurv-NET,2009-10,2009,36,50-64 yr,0.9,0.6
+Entire Network,FluSurv-NET,2009-10,2009,37,50-64 yr,1.6,0.7
+Entire Network,FluSurv-NET,2009-10,2009,38,50-64 yr,2.6,1
+Entire Network,FluSurv-NET,2009-10,2009,39,50-64 yr,3.9,1.3
+Entire Network,FluSurv-NET,2009-10,2009,40,50-64 yr,6.3,2.4
+Entire Network,FluSurv-NET,2009-10,2009,41,50-64 yr,10,3.7
+Entire Network,FluSurv-NET,2009-10,2009,42,50-64 yr,14.3,4.3
+Entire Network,FluSurv-NET,2009-10,2009,43,50-64 yr,17.8,3.6
+Entire Network,FluSurv-NET,2009-10,2009,44,50-64 yr,21,3.2
+Entire Network,FluSurv-NET,2009-10,2009,45,50-64 yr,23.7,2.7
+Entire Network,FluSurv-NET,2009-10,2009,46,50-64 yr,25.3,1.6
+Entire Network,FluSurv-NET,2009-10,2009,47,50-64 yr,26.3,1
+Entire Network,FluSurv-NET,2009-10,2009,48,50-64 yr,26.8,0.5
+Entire Network,FluSurv-NET,2009-10,2009,49,50-64 yr,27.2,0.4
+Entire Network,FluSurv-NET,2009-10,2009,50,50-64 yr,27.5,0.4
+Entire Network,FluSurv-NET,2009-10,2009,51,50-64 yr,27.8,0.3
+Entire Network,FluSurv-NET,2009-10,2009,52,50-64 yr,28.2,0.4
+Entire Network,FluSurv-NET,2009-10,2010,1,50-64 yr,28.5,0.3
+Entire Network,FluSurv-NET,2009-10,2010,2,50-64 yr,28.7,0.2
+Entire Network,FluSurv-NET,2009-10,2010,3,50-64 yr,28.8,0.1
+Entire Network,FluSurv-NET,2009-10,2010,4,50-64 yr,29,0.1
+Entire Network,FluSurv-NET,2009-10,2010,5,50-64 yr,29.2,0.2
+Entire Network,FluSurv-NET,2009-10,2010,6,50-64 yr,29.3,0.1
+Entire Network,FluSurv-NET,2009-10,2010,7,50-64 yr,29.7,0.4
+Entire Network,FluSurv-NET,2009-10,2010,8,50-64 yr,29.8,0.1
+Entire Network,FluSurv-NET,2009-10,2010,9,50-64 yr,29.9,0.2
+Entire Network,FluSurv-NET,2009-10,2010,10,50-64 yr,30.1,0.1
+Entire Network,FluSurv-NET,2009-10,2010,11,50-64 yr,30.3,0.3
+Entire Network,FluSurv-NET,2009-10,2010,12,50-64 yr,30.4,0.1
+Entire Network,FluSurv-NET,2009-10,2010,13,50-64 yr,30.5,0.1
+Entire Network,FluSurv-NET,2009-10,2010,14,50-64 yr,30.5,0
+Entire Network,FluSurv-NET,2009-10,2010,15,50-64 yr,30.6,0.1
+Entire Network,FluSurv-NET,2009-10,2010,16,50-64 yr,30.6,0
+Entire Network,FluSurv-NET,2009-10,2010,17,50-64 yr,30.6,0
+Entire Network,FluSurv-NET,2009-10,2009,35,65+ yr,0.4,0.4
+Entire Network,FluSurv-NET,2009-10,2009,36,65+ yr,1,0.6
+Entire Network,FluSurv-NET,2009-10,2009,37,65+ yr,1.5,0.5
+Entire Network,FluSurv-NET,2009-10,2009,38,65+ yr,2.2,0.7
+Entire Network,FluSurv-NET,2009-10,2009,39,65+ yr,3.1,0.9
+Entire Network,FluSurv-NET,2009-10,2009,40,65+ yr,5.4,2.3
+Entire Network,FluSurv-NET,2009-10,2009,41,65+ yr,7.7,2.3
+Entire Network,FluSurv-NET,2009-10,2009,42,65+ yr,11,3.3
+Entire Network,FluSurv-NET,2009-10,2009,43,65+ yr,13.9,2.9
+Entire Network,FluSurv-NET,2009-10,2009,44,65+ yr,16.1,2.3
+Entire Network,FluSurv-NET,2009-10,2009,45,65+ yr,17.8,1.6
+Entire Network,FluSurv-NET,2009-10,2009,46,65+ yr,19.4,1.6
+Entire Network,FluSurv-NET,2009-10,2009,47,65+ yr,20.5,1.1
+Entire Network,FluSurv-NET,2009-10,2009,48,65+ yr,21.3,0.9
+Entire Network,FluSurv-NET,2009-10,2009,49,65+ yr,21.6,0.3
+Entire Network,FluSurv-NET,2009-10,2009,50,65+ yr,21.9,0.3
+Entire Network,FluSurv-NET,2009-10,2009,51,65+ yr,22.5,0.6
+Entire Network,FluSurv-NET,2009-10,2009,52,65+ yr,23,0.4
+Entire Network,FluSurv-NET,2009-10,2010,1,65+ yr,23.3,0.3
+Entire Network,FluSurv-NET,2009-10,2010,2,65+ yr,23.7,0.4
+Entire Network,FluSurv-NET,2009-10,2010,3,65+ yr,24,0.3
+Entire Network,FluSurv-NET,2009-10,2010,4,65+ yr,24.1,0.1
+Entire Network,FluSurv-NET,2009-10,2010,5,65+ yr,24.4,0.3
+Entire Network,FluSurv-NET,2009-10,2010,6,65+ yr,24.6,0.2
+Entire Network,FluSurv-NET,2009-10,2010,7,65+ yr,24.7,0.1
+Entire Network,FluSurv-NET,2009-10,2010,8,65+ yr,24.9,0.2
+Entire Network,FluSurv-NET,2009-10,2010,9,65+ yr,25.1,0.1
+Entire Network,FluSurv-NET,2009-10,2010,10,65+ yr,25.1,0
+Entire Network,FluSurv-NET,2009-10,2010,11,65+ yr,25.2,0.1
+Entire Network,FluSurv-NET,2009-10,2010,12,65+ yr,25.4,0.2
+Entire Network,FluSurv-NET,2009-10,2010,13,65+ yr,25.5,0.2
+Entire Network,FluSurv-NET,2009-10,2010,14,65+ yr,25.6,0.1
+Entire Network,FluSurv-NET,2009-10,2010,15,65+ yr,25.7,0
+Entire Network,FluSurv-NET,2009-10,2010,16,65+ yr,25.7,0
+Entire Network,FluSurv-NET,2009-10,2010,17,65+ yr,25.7,0
+Entire Network,FluSurv-NET,2009-10,2009,35,Overall,0.3,0.3
+Entire Network,FluSurv-NET,2009-10,2009,36,Overall,1.2,0.8
+Entire Network,FluSurv-NET,2009-10,2009,37,Overall,2,0.8
+Entire Network,FluSurv-NET,2009-10,2009,38,Overall,3,1
+Entire Network,FluSurv-NET,2009-10,2009,39,Overall,4.6,1.6
+Entire Network,FluSurv-NET,2009-10,2009,40,Overall,7.4,2.8
+Entire Network,FluSurv-NET,2009-10,2009,41,Overall,11.2,3.8
+Entire Network,FluSurv-NET,2009-10,2009,42,Overall,15.2,4
+Entire Network,FluSurv-NET,2009-10,2009,43,Overall,18.7,3.5
+Entire Network,FluSurv-NET,2009-10,2009,44,Overall,21.3,2.7
+Entire Network,FluSurv-NET,2009-10,2009,45,Overall,23.1,1.8
+Entire Network,FluSurv-NET,2009-10,2009,46,Overall,24.4,1.3
+Entire Network,FluSurv-NET,2009-10,2009,47,Overall,25.2,0.8
+Entire Network,FluSurv-NET,2009-10,2009,48,Overall,25.7,0.5
+Entire Network,FluSurv-NET,2009-10,2009,49,Overall,26,0.4
+Entire Network,FluSurv-NET,2009-10,2009,50,Overall,26.3,0.3
+Entire Network,FluSurv-NET,2009-10,2009,51,Overall,26.6,0.3
+Entire Network,FluSurv-NET,2009-10,2009,52,Overall,26.9,0.3
+Entire Network,FluSurv-NET,2009-10,2010,1,Overall,27.1,0.2
+Entire Network,FluSurv-NET,2009-10,2010,2,Overall,27.3,0.2
+Entire Network,FluSurv-NET,2009-10,2010,3,Overall,27.5,0.2
+Entire Network,FluSurv-NET,2009-10,2010,4,Overall,27.7,0.2
+Entire Network,FluSurv-NET,2009-10,2010,5,Overall,27.9,0.2
+Entire Network,FluSurv-NET,2009-10,2010,6,Overall,28,0.2
+Entire Network,FluSurv-NET,2009-10,2010,7,Overall,28.2,0.2
+Entire Network,FluSurv-NET,2009-10,2010,8,Overall,28.4,0.2
+Entire Network,FluSurv-NET,2009-10,2010,9,Overall,28.6,0.2
+Entire Network,FluSurv-NET,2009-10,2010,10,Overall,28.7,0.2
+Entire Network,FluSurv-NET,2009-10,2010,11,Overall,28.9,0.1
+Entire Network,FluSurv-NET,2009-10,2010,12,Overall,29,0.1
+Entire Network,FluSurv-NET,2009-10,2010,13,Overall,29.1,0.1
+Entire Network,FluSurv-NET,2009-10,2010,14,Overall,29.1,0.1
+Entire Network,FluSurv-NET,2009-10,2010,15,Overall,29.2,0.1
+Entire Network,FluSurv-NET,2009-10,2010,16,Overall,29.2,0
+Entire Network,FluSurv-NET,2009-10,2010,17,Overall,29.3,0
+Entire Network,FluSurv-NET,2010-11,2010,40,0-4 yr,0.1,0.1
+Entire Network,FluSurv-NET,2010-11,2010,41,0-4 yr,0.3,0.2
+Entire Network,FluSurv-NET,2010-11,2010,42,0-4 yr,0.6,0.3
+Entire Network,FluSurv-NET,2010-11,2010,43,0-4 yr,0.9,0.3
+Entire Network,FluSurv-NET,2010-11,2010,44,0-4 yr,1.2,0.3
+Entire Network,FluSurv-NET,2010-11,2010,45,0-4 yr,1.5,0.3
+Entire Network,FluSurv-NET,2010-11,2010,46,0-4 yr,1.8,0.4
+Entire Network,FluSurv-NET,2010-11,2010,47,0-4 yr,2.2,0.4
+Entire Network,FluSurv-NET,2010-11,2010,48,0-4 yr,3.1,0.8
+Entire Network,FluSurv-NET,2010-11,2010,49,0-4 yr,4.1,1.1
+Entire Network,FluSurv-NET,2010-11,2010,50,0-4 yr,5.1,1
+Entire Network,FluSurv-NET,2010-11,2010,51,0-4 yr,6.3,1.1
+Entire Network,FluSurv-NET,2010-11,2010,52,0-4 yr,8.3,2
+Entire Network,FluSurv-NET,2010-11,2011,1,0-4 yr,10.1,1.8
+Entire Network,FluSurv-NET,2010-11,2011,2,0-4 yr,12.6,2.5
+Entire Network,FluSurv-NET,2010-11,2011,3,0-4 yr,15.4,2.8
+Entire Network,FluSurv-NET,2010-11,2011,4,0-4 yr,18.9,3.5
+Entire Network,FluSurv-NET,2010-11,2011,5,0-4 yr,23.4,4.5
+Entire Network,FluSurv-NET,2010-11,2011,6,0-4 yr,27.2,3.8
+Entire Network,FluSurv-NET,2010-11,2011,7,0-4 yr,31.1,3.8
+Entire Network,FluSurv-NET,2010-11,2011,8,0-4 yr,35.7,4.6
+Entire Network,FluSurv-NET,2010-11,2011,9,0-4 yr,38.9,3.2
+Entire Network,FluSurv-NET,2010-11,2011,10,0-4 yr,42,3.1
+Entire Network,FluSurv-NET,2010-11,2011,11,0-4 yr,44.4,2.4
+Entire Network,FluSurv-NET,2010-11,2011,12,0-4 yr,46.3,1.9
+Entire Network,FluSurv-NET,2010-11,2011,13,0-4 yr,47.4,1.1
+Entire Network,FluSurv-NET,2010-11,2011,14,0-4 yr,48.1,0.7
+Entire Network,FluSurv-NET,2010-11,2011,15,0-4 yr,48.7,0.7
+Entire Network,FluSurv-NET,2010-11,2011,16,0-4 yr,49.1,0.4
+Entire Network,FluSurv-NET,2010-11,2011,17,0-4 yr,49.4,0.3
+Entire Network,FluSurv-NET,2010-11,2010,40,5-17 yr,0,0
+Entire Network,FluSurv-NET,2010-11,2010,41,5-17 yr,0,0
+Entire Network,FluSurv-NET,2010-11,2010,42,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2010-11,2010,43,5-17 yr,0.1,0.1
+Entire Network,FluSurv-NET,2010-11,2010,44,5-17 yr,0.2,0.1
+Entire Network,FluSurv-NET,2010-11,2010,45,5-17 yr,0.3,0
+Entire Network,FluSurv-NET,2010-11,2010,46,5-17 yr,0.3,0
+Entire Network,FluSurv-NET,2010-11,2010,47,5-17 yr,0.4,0.1
+Entire Network,FluSurv-NET,2010-11,2010,48,5-17 yr,0.5,0.1
+Entire Network,FluSurv-NET,2010-11,2010,49,5-17 yr,0.7,0.2
+Entire Network,FluSurv-NET,2010-11,2010,50,5-17 yr,0.9,0.2
+Entire Network,FluSurv-NET,2010-11,2010,51,5-17 yr,1.2,0.2
+Entire Network,FluSurv-NET,2010-11,2010,52,5-17 yr,1.5,0.3
+Entire Network,FluSurv-NET,2010-11,2011,1,5-17 yr,1.7,0.2
+Entire Network,FluSurv-NET,2010-11,2011,2,5-17 yr,2.1,0.4
+Entire Network,FluSurv-NET,2010-11,2011,3,5-17 yr,2.6,0.6
+Entire Network,FluSurv-NET,2010-11,2011,4,5-17 yr,3.3,0.6
+Entire Network,FluSurv-NET,2010-11,2011,5,5-17 yr,4.1,0.8
+Entire Network,FluSurv-NET,2010-11,2011,6,5-17 yr,4.8,0.7
+Entire Network,FluSurv-NET,2010-11,2011,7,5-17 yr,5.5,0.7
+Entire Network,FluSurv-NET,2010-11,2011,8,5-17 yr,6.4,0.9
+Entire Network,FluSurv-NET,2010-11,2011,9,5-17 yr,7.3,0.9
+Entire Network,FluSurv-NET,2010-11,2011,10,5-17 yr,7.7,0.5
+Entire Network,FluSurv-NET,2010-11,2011,11,5-17 yr,8.2,0.5
+Entire Network,FluSurv-NET,2010-11,2011,12,5-17 yr,8.5,0.3
+Entire Network,FluSurv-NET,2010-11,2011,13,5-17 yr,8.7,0.2
+Entire Network,FluSurv-NET,2010-11,2011,14,5-17 yr,8.8,0.1
+Entire Network,FluSurv-NET,2010-11,2011,15,5-17 yr,9,0.1
+Entire Network,FluSurv-NET,2010-11,2011,16,5-17 yr,9,0.1
+Entire Network,FluSurv-NET,2010-11,2011,17,5-17 yr,9.1,0
+Entire Network,FluSurv-NET,2010-11,2010,40,18-49 yr,0,0
+Entire Network,FluSurv-NET,2010-11,2010,41,18-49 yr,0,0
+Entire Network,FluSurv-NET,2010-11,2010,42,18-49 yr,0,0
+Entire Network,FluSurv-NET,2010-11,2010,43,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2010-11,2010,44,18-49 yr,0.1,0.1
+Entire Network,FluSurv-NET,2010-11,2010,45,18-49 yr,0.2,0
+Entire Network,FluSurv-NET,2010-11,2010,46,18-49 yr,0.3,0.1
+Entire Network,FluSurv-NET,2010-11,2010,47,18-49 yr,0.3,0.1
+Entire Network,FluSurv-NET,2010-11,2010,48,18-49 yr,0.4,0.1
+Entire Network,FluSurv-NET,2010-11,2010,49,18-49 yr,0.6,0.2
+Entire Network,FluSurv-NET,2010-11,2010,50,18-49 yr,0.8,0.2
+Entire Network,FluSurv-NET,2010-11,2010,51,18-49 yr,1.3,0.4
+Entire Network,FluSurv-NET,2010-11,2010,52,18-49 yr,1.7,0.4
+Entire Network,FluSurv-NET,2010-11,2011,1,18-49 yr,2.2,0.5
+Entire Network,FluSurv-NET,2010-11,2011,2,18-49 yr,2.8,0.5
+Entire Network,FluSurv-NET,2010-11,2011,3,18-49 yr,3.6,0.8
+Entire Network,FluSurv-NET,2010-11,2011,4,18-49 yr,4.4,0.8
+Entire Network,FluSurv-NET,2010-11,2011,5,18-49 yr,5.4,1
+Entire Network,FluSurv-NET,2010-11,2011,6,18-49 yr,6.4,1
+Entire Network,FluSurv-NET,2010-11,2011,7,18-49 yr,7.5,1.1
+Entire Network,FluSurv-NET,2010-11,2011,8,18-49 yr,8.7,1.1
+Entire Network,FluSurv-NET,2010-11,2011,9,18-49 yr,9.5,0.8
+Entire Network,FluSurv-NET,2010-11,2011,10,18-49 yr,10.2,0.7
+Entire Network,FluSurv-NET,2010-11,2011,11,18-49 yr,10.6,0.4
+Entire Network,FluSurv-NET,2010-11,2011,12,18-49 yr,10.9,0.3
+Entire Network,FluSurv-NET,2010-11,2011,13,18-49 yr,11.1,0.2
+Entire Network,FluSurv-NET,2010-11,2011,14,18-49 yr,11.3,0.1
+Entire Network,FluSurv-NET,2010-11,2011,15,18-49 yr,11.3,0.1
+Entire Network,FluSurv-NET,2010-11,2011,16,18-49 yr,11.4,0.1
+Entire Network,FluSurv-NET,2010-11,2011,17,18-49 yr,11.5,0.1
+Entire Network,FluSurv-NET,2010-11,2010,40,50-64 yr,0.1,0.1
+Entire Network,FluSurv-NET,2010-11,2010,41,50-64 yr,0.1,0.1
+Entire Network,FluSurv-NET,2010-11,2010,42,50-64 yr,0.2,0.1
+Entire Network,FluSurv-NET,2010-11,2010,43,50-64 yr,0.2,0.1
+Entire Network,FluSurv-NET,2010-11,2010,44,50-64 yr,0.3,0.1
+Entire Network,FluSurv-NET,2010-11,2010,45,50-64 yr,0.3,0.1
+Entire Network,FluSurv-NET,2010-11,2010,46,50-64 yr,0.6,0.2
+Entire Network,FluSurv-NET,2010-11,2010,47,50-64 yr,0.7,0.2
+Entire Network,FluSurv-NET,2010-11,2010,48,50-64 yr,0.9,0.2
+Entire Network,FluSurv-NET,2010-11,2010,49,50-64 yr,1.2,0.3
+Entire Network,FluSurv-NET,2010-11,2010,50,50-64 yr,1.5,0.3
+Entire Network,FluSurv-NET,2010-11,2010,51,50-64 yr,2,0.5
+Entire Network,FluSurv-NET,2010-11,2010,52,50-64 yr,2.7,0.7
+Entire Network,FluSurv-NET,2010-11,2011,1,50-64 yr,3.6,0.9
+Entire Network,FluSurv-NET,2010-11,2011,2,50-64 yr,4.6,1
+Entire Network,FluSurv-NET,2010-11,2011,3,50-64 yr,5.9,1.2
+Entire Network,FluSurv-NET,2010-11,2011,4,50-64 yr,7.3,1.4
+Entire Network,FluSurv-NET,2010-11,2011,5,50-64 yr,8.9,1.6
+Entire Network,FluSurv-NET,2010-11,2011,6,50-64 yr,10.5,1.6
+Entire Network,FluSurv-NET,2010-11,2011,7,50-64 yr,12.7,2.2
+Entire Network,FluSurv-NET,2010-11,2011,8,50-64 yr,15.2,2.5
+Entire Network,FluSurv-NET,2010-11,2011,9,50-64 yr,17.2,2
+Entire Network,FluSurv-NET,2010-11,2011,10,50-64 yr,18.7,1.5
+Entire Network,FluSurv-NET,2010-11,2011,11,50-64 yr,20,1.3
+Entire Network,FluSurv-NET,2010-11,2011,12,50-64 yr,20.8,0.8
+Entire Network,FluSurv-NET,2010-11,2011,13,50-64 yr,21.2,0.5
+Entire Network,FluSurv-NET,2010-11,2011,14,50-64 yr,21.6,0.4
+Entire Network,FluSurv-NET,2010-11,2011,15,50-64 yr,21.8,0.2
+Entire Network,FluSurv-NET,2010-11,2011,16,50-64 yr,21.9,0.1
+Entire Network,FluSurv-NET,2010-11,2011,17,50-64 yr,22,0.1
+Entire Network,FluSurv-NET,2010-11,2010,40,65+ yr,0.1,0.1
+Entire Network,FluSurv-NET,2010-11,2010,41,65+ yr,0.3,0.2
+Entire Network,FluSurv-NET,2010-11,2010,42,65+ yr,0.5,0.2
+Entire Network,FluSurv-NET,2010-11,2010,43,65+ yr,0.6,0.2
+Entire Network,FluSurv-NET,2010-11,2010,44,65+ yr,0.7,0.1
+Entire Network,FluSurv-NET,2010-11,2010,45,65+ yr,0.8,0.1
+Entire Network,FluSurv-NET,2010-11,2010,46,65+ yr,0.9,0.1
+Entire Network,FluSurv-NET,2010-11,2010,47,65+ yr,1.1,0.2
+Entire Network,FluSurv-NET,2010-11,2010,48,65+ yr,1.7,0.5
+Entire Network,FluSurv-NET,2010-11,2010,49,65+ yr,2.3,0.6
+Entire Network,FluSurv-NET,2010-11,2010,50,65+ yr,3.2,0.9
+Entire Network,FluSurv-NET,2010-11,2010,51,65+ yr,4.7,1.5
+Entire Network,FluSurv-NET,2010-11,2010,52,65+ yr,7.7,3
+Entire Network,FluSurv-NET,2010-11,2011,1,65+ yr,10.2,2.6
+Entire Network,FluSurv-NET,2010-11,2011,2,65+ yr,12.9,2.6
+Entire Network,FluSurv-NET,2010-11,2011,3,65+ yr,15.9,3
+Entire Network,FluSurv-NET,2010-11,2011,4,65+ yr,20.3,4.4
+Entire Network,FluSurv-NET,2010-11,2011,5,65+ yr,25.5,5.2
+Entire Network,FluSurv-NET,2010-11,2011,6,65+ yr,29.4,3.9
+Entire Network,FluSurv-NET,2010-11,2011,7,65+ yr,35.9,6.5
+Entire Network,FluSurv-NET,2010-11,2011,8,65+ yr,41.8,5.9
+Entire Network,FluSurv-NET,2010-11,2011,9,65+ yr,47.8,6.1
+Entire Network,FluSurv-NET,2010-11,2011,10,65+ yr,52.5,4.7
+Entire Network,FluSurv-NET,2010-11,2011,11,65+ yr,56.6,4.1
+Entire Network,FluSurv-NET,2010-11,2011,12,65+ yr,59,2.4
+Entire Network,FluSurv-NET,2010-11,2011,13,65+ yr,61,2
+Entire Network,FluSurv-NET,2010-11,2011,14,65+ yr,62.5,1.5
+Entire Network,FluSurv-NET,2010-11,2011,15,65+ yr,63.7,1.2
+Entire Network,FluSurv-NET,2010-11,2011,16,65+ yr,64.4,0.7
+Entire Network,FluSurv-NET,2010-11,2011,17,65+ yr,64.8,0.5
+Entire Network,FluSurv-NET,2010-11,2010,40,Overall,0,0
+Entire Network,FluSurv-NET,2010-11,2010,41,Overall,0.1,0.1
+Entire Network,FluSurv-NET,2010-11,2010,42,Overall,0.2,0.1
+Entire Network,FluSurv-NET,2010-11,2010,43,Overall,0.2,0.1
+Entire Network,FluSurv-NET,2010-11,2010,44,Overall,0.3,0.1
+Entire Network,FluSurv-NET,2010-11,2010,45,Overall,0.4,0.1
+Entire Network,FluSurv-NET,2010-11,2010,46,Overall,0.5,0.1
+Entire Network,FluSurv-NET,2010-11,2010,47,Overall,0.6,0.1
+Entire Network,FluSurv-NET,2010-11,2010,48,Overall,0.9,0.2
+Entire Network,FluSurv-NET,2010-11,2010,49,Overall,1.2,0.3
+Entire Network,FluSurv-NET,2010-11,2010,50,Overall,1.5,0.4
+Entire Network,FluSurv-NET,2010-11,2010,51,Overall,2.1,0.6
+Entire Network,FluSurv-NET,2010-11,2010,52,Overall,3,0.9
+Entire Network,FluSurv-NET,2010-11,2011,1,Overall,3.8,0.9
+Entire Network,FluSurv-NET,2010-11,2011,2,Overall,4.8,1
+Entire Network,FluSurv-NET,2010-11,2011,3,Overall,6,1.2
+Entire Network,FluSurv-NET,2010-11,2011,4,Overall,7.5,1.5
+Entire Network,FluSurv-NET,2010-11,2011,5,Overall,9.3,1.8
+Entire Network,FluSurv-NET,2010-11,2011,6,Overall,10.9,1.6
+Entire Network,FluSurv-NET,2010-11,2011,7,Overall,12.9,2
+Entire Network,FluSurv-NET,2010-11,2011,8,Overall,15.1,2.1
+Entire Network,FluSurv-NET,2010-11,2011,9,Overall,16.9,1.8
+Entire Network,FluSurv-NET,2010-11,2011,10,Overall,18.3,1.4
+Entire Network,FluSurv-NET,2010-11,2011,11,Overall,19.5,1.2
+Entire Network,FluSurv-NET,2010-11,2011,12,Overall,20.2,0.7
+Entire Network,FluSurv-NET,2010-11,2011,13,Overall,20.7,0.5
+Entire Network,FluSurv-NET,2010-11,2011,14,Overall,21.1,0.4
+Entire Network,FluSurv-NET,2010-11,2011,15,Overall,21.4,0.3
+Entire Network,FluSurv-NET,2010-11,2011,16,Overall,21.5,0.2
+Entire Network,FluSurv-NET,2010-11,2011,17,Overall,21.7,0.1
+Entire Network,FluSurv-NET,2011-12,2011,40,0-4 yr,0.1,0.1
+Entire Network,FluSurv-NET,2011-12,2011,41,0-4 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,42,0-4 yr,0.2,0.1
+Entire Network,FluSurv-NET,2011-12,2011,43,0-4 yr,0.2,0
+Entire Network,FluSurv-NET,2011-12,2011,44,0-4 yr,0.2,0
+Entire Network,FluSurv-NET,2011-12,2011,45,0-4 yr,0.2,0.1
+Entire Network,FluSurv-NET,2011-12,2011,46,0-4 yr,0.2,0
+Entire Network,FluSurv-NET,2011-12,2011,47,0-4 yr,0.4,0.2
+Entire Network,FluSurv-NET,2011-12,2011,48,0-4 yr,0.6,0.2
+Entire Network,FluSurv-NET,2011-12,2011,49,0-4 yr,0.6,0.1
+Entire Network,FluSurv-NET,2011-12,2011,50,0-4 yr,0.8,0.2
+Entire Network,FluSurv-NET,2011-12,2011,51,0-4 yr,0.8,0.1
+Entire Network,FluSurv-NET,2011-12,2011,52,0-4 yr,1,0.2
+Entire Network,FluSurv-NET,2011-12,2012,1,0-4 yr,1,0
+Entire Network,FluSurv-NET,2011-12,2012,2,0-4 yr,1.3,0.3
+Entire Network,FluSurv-NET,2011-12,2012,3,0-4 yr,1.6,0.3
+Entire Network,FluSurv-NET,2011-12,2012,4,0-4 yr,1.7,0.1
+Entire Network,FluSurv-NET,2011-12,2012,5,0-4 yr,2.1,0.4
+Entire Network,FluSurv-NET,2011-12,2012,6,0-4 yr,2.7,0.6
+Entire Network,FluSurv-NET,2011-12,2012,7,0-4 yr,3.6,0.9
+Entire Network,FluSurv-NET,2011-12,2012,8,0-4 yr,4.7,1.1
+Entire Network,FluSurv-NET,2011-12,2012,9,0-4 yr,5.6,0.9
+Entire Network,FluSurv-NET,2011-12,2012,10,0-4 yr,7.3,1.7
+Entire Network,FluSurv-NET,2011-12,2012,11,0-4 yr,9.5,2.2
+Entire Network,FluSurv-NET,2011-12,2012,12,0-4 yr,11.6,2.1
+Entire Network,FluSurv-NET,2011-12,2012,13,0-4 yr,12.9,1.3
+Entire Network,FluSurv-NET,2011-12,2012,14,0-4 yr,13.6,0.7
+Entire Network,FluSurv-NET,2011-12,2012,15,0-4 yr,14.5,0.9
+Entire Network,FluSurv-NET,2011-12,2012,16,0-4 yr,15.2,0.7
+Entire Network,FluSurv-NET,2011-12,2012,17,0-4 yr,16,0.8
+Entire Network,FluSurv-NET,2011-12,2011,40,5-17 yr,0,0
+Entire Network,FluSurv-NET,2011-12,2011,41,5-17 yr,0,0
+Entire Network,FluSurv-NET,2011-12,2011,42,5-17 yr,0,0
+Entire Network,FluSurv-NET,2011-12,2011,43,5-17 yr,0,0
+Entire Network,FluSurv-NET,2011-12,2011,44,5-17 yr,0,0
+Entire Network,FluSurv-NET,2011-12,2011,45,5-17 yr,0,0
+Entire Network,FluSurv-NET,2011-12,2011,46,5-17 yr,0,0
+Entire Network,FluSurv-NET,2011-12,2011,47,5-17 yr,0,0
+Entire Network,FluSurv-NET,2011-12,2011,48,5-17 yr,0,0
+Entire Network,FluSurv-NET,2011-12,2011,49,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,50,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,51,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,52,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2012,1,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2012,2,5-17 yr,0.2,0
+Entire Network,FluSurv-NET,2011-12,2012,3,5-17 yr,0.2,0
+Entire Network,FluSurv-NET,2011-12,2012,4,5-17 yr,0.2,0
+Entire Network,FluSurv-NET,2011-12,2012,5,5-17 yr,0.3,0.1
+Entire Network,FluSurv-NET,2011-12,2012,6,5-17 yr,0.5,0.2
+Entire Network,FluSurv-NET,2011-12,2012,7,5-17 yr,0.6,0.1
+Entire Network,FluSurv-NET,2011-12,2012,8,5-17 yr,0.8,0.2
+Entire Network,FluSurv-NET,2011-12,2012,9,5-17 yr,1.1,0.3
+Entire Network,FluSurv-NET,2011-12,2012,10,5-17 yr,1.5,0.4
+Entire Network,FluSurv-NET,2011-12,2012,11,5-17 yr,1.9,0.4
+Entire Network,FluSurv-NET,2011-12,2012,12,5-17 yr,2.5,0.5
+Entire Network,FluSurv-NET,2011-12,2012,13,5-17 yr,2.9,0.4
+Entire Network,FluSurv-NET,2011-12,2012,14,5-17 yr,3.3,0.4
+Entire Network,FluSurv-NET,2011-12,2012,15,5-17 yr,3.5,0.2
+Entire Network,FluSurv-NET,2011-12,2012,16,5-17 yr,3.8,0.4
+Entire Network,FluSurv-NET,2011-12,2012,17,5-17 yr,4,0.2
+Entire Network,FluSurv-NET,2011-12,2011,40,18-49 yr,0,0
+Entire Network,FluSurv-NET,2011-12,2011,41,18-49 yr,0,0
+Entire Network,FluSurv-NET,2011-12,2011,42,18-49 yr,0,0
+Entire Network,FluSurv-NET,2011-12,2011,43,18-49 yr,0,0
+Entire Network,FluSurv-NET,2011-12,2011,44,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,45,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,46,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,47,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,48,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,49,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,50,18-49 yr,0.2,0
+Entire Network,FluSurv-NET,2011-12,2011,51,18-49 yr,0.2,0.1
+Entire Network,FluSurv-NET,2011-12,2011,52,18-49 yr,0.3,0.1
+Entire Network,FluSurv-NET,2011-12,2012,1,18-49 yr,0.3,0
+Entire Network,FluSurv-NET,2011-12,2012,2,18-49 yr,0.3,0
+Entire Network,FluSurv-NET,2011-12,2012,3,18-49 yr,0.4,0
+Entire Network,FluSurv-NET,2011-12,2012,4,18-49 yr,0.4,0
+Entire Network,FluSurv-NET,2011-12,2012,5,18-49 yr,0.5,0.1
+Entire Network,FluSurv-NET,2011-12,2012,6,18-49 yr,0.5,0.1
+Entire Network,FluSurv-NET,2011-12,2012,7,18-49 yr,0.7,0.2
+Entire Network,FluSurv-NET,2011-12,2012,8,18-49 yr,0.9,0.2
+Entire Network,FluSurv-NET,2011-12,2012,9,18-49 yr,1.1,0.2
+Entire Network,FluSurv-NET,2011-12,2012,10,18-49 yr,1.5,0.3
+Entire Network,FluSurv-NET,2011-12,2012,11,18-49 yr,2.1,0.6
+Entire Network,FluSurv-NET,2011-12,2012,12,18-49 yr,2.6,0.6
+Entire Network,FluSurv-NET,2011-12,2012,13,18-49 yr,3,0.4
+Entire Network,FluSurv-NET,2011-12,2012,14,18-49 yr,3.4,0.4
+Entire Network,FluSurv-NET,2011-12,2012,15,18-49 yr,3.7,0.3
+Entire Network,FluSurv-NET,2011-12,2012,16,18-49 yr,3.9,0.2
+Entire Network,FluSurv-NET,2011-12,2012,17,18-49 yr,4.1,0.2
+Entire Network,FluSurv-NET,2011-12,2011,40,50-64 yr,0.1,0.1
+Entire Network,FluSurv-NET,2011-12,2011,41,50-64 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,42,50-64 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,43,50-64 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,44,50-64 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,45,50-64 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,46,50-64 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,47,50-64 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,48,50-64 yr,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,49,50-64 yr,0.2,0
+Entire Network,FluSurv-NET,2011-12,2011,50,50-64 yr,0.2,0
+Entire Network,FluSurv-NET,2011-12,2011,51,50-64 yr,0.3,0
+Entire Network,FluSurv-NET,2011-12,2011,52,50-64 yr,0.4,0.1
+Entire Network,FluSurv-NET,2011-12,2012,1,50-64 yr,0.5,0.2
+Entire Network,FluSurv-NET,2011-12,2012,2,50-64 yr,0.6,0
+Entire Network,FluSurv-NET,2011-12,2012,3,50-64 yr,0.6,0.1
+Entire Network,FluSurv-NET,2011-12,2012,4,50-64 yr,0.8,0.1
+Entire Network,FluSurv-NET,2011-12,2012,5,50-64 yr,1,0.2
+Entire Network,FluSurv-NET,2011-12,2012,6,50-64 yr,1.1,0.2
+Entire Network,FluSurv-NET,2011-12,2012,7,50-64 yr,1.5,0.3
+Entire Network,FluSurv-NET,2011-12,2012,8,50-64 yr,1.8,0.4
+Entire Network,FluSurv-NET,2011-12,2012,9,50-64 yr,2.5,0.7
+Entire Network,FluSurv-NET,2011-12,2012,10,50-64 yr,3.2,0.7
+Entire Network,FluSurv-NET,2011-12,2012,11,50-64 yr,3.9,0.7
+Entire Network,FluSurv-NET,2011-12,2012,12,50-64 yr,4.8,1
+Entire Network,FluSurv-NET,2011-12,2012,13,50-64 yr,5.7,0.9
+Entire Network,FluSurv-NET,2011-12,2012,14,50-64 yr,6.4,0.7
+Entire Network,FluSurv-NET,2011-12,2012,15,50-64 yr,7.2,0.8
+Entire Network,FluSurv-NET,2011-12,2012,16,50-64 yr,7.7,0.5
+Entire Network,FluSurv-NET,2011-12,2012,17,50-64 yr,8.1,0.4
+Entire Network,FluSurv-NET,2011-12,2011,40,65+ yr,0.1,0.1
+Entire Network,FluSurv-NET,2011-12,2011,41,65+ yr,0.1,0.1
+Entire Network,FluSurv-NET,2011-12,2011,42,65+ yr,0.2,0.1
+Entire Network,FluSurv-NET,2011-12,2011,43,65+ yr,0.2,0
+Entire Network,FluSurv-NET,2011-12,2011,44,65+ yr,0.3,0.1
+Entire Network,FluSurv-NET,2011-12,2011,45,65+ yr,0.3,0
+Entire Network,FluSurv-NET,2011-12,2011,46,65+ yr,0.3,0
+Entire Network,FluSurv-NET,2011-12,2011,47,65+ yr,0.5,0.2
+Entire Network,FluSurv-NET,2011-12,2011,48,65+ yr,0.5,0
+Entire Network,FluSurv-NET,2011-12,2011,49,65+ yr,0.6,0.1
+Entire Network,FluSurv-NET,2011-12,2011,50,65+ yr,0.7,0.2
+Entire Network,FluSurv-NET,2011-12,2011,51,65+ yr,0.8,0.1
+Entire Network,FluSurv-NET,2011-12,2011,52,65+ yr,1.2,0.3
+Entire Network,FluSurv-NET,2011-12,2012,1,65+ yr,1.5,0.3
+Entire Network,FluSurv-NET,2011-12,2012,2,65+ yr,1.8,0.3
+Entire Network,FluSurv-NET,2011-12,2012,3,65+ yr,2.1,0.3
+Entire Network,FluSurv-NET,2011-12,2012,4,65+ yr,2.6,0.5
+Entire Network,FluSurv-NET,2011-12,2012,5,65+ yr,3.4,0.8
+Entire Network,FluSurv-NET,2011-12,2012,6,65+ yr,4,0.6
+Entire Network,FluSurv-NET,2011-12,2012,7,65+ yr,5,1
+Entire Network,FluSurv-NET,2011-12,2012,8,65+ yr,6.2,1.1
+Entire Network,FluSurv-NET,2011-12,2012,9,65+ yr,8.3,2.2
+Entire Network,FluSurv-NET,2011-12,2012,10,65+ yr,11,2.7
+Entire Network,FluSurv-NET,2011-12,2012,11,65+ yr,15,4
+Entire Network,FluSurv-NET,2011-12,2012,12,65+ yr,18.3,3.3
+Entire Network,FluSurv-NET,2011-12,2012,13,65+ yr,21,2.7
+Entire Network,FluSurv-NET,2011-12,2012,14,65+ yr,23.3,2.3
+Entire Network,FluSurv-NET,2011-12,2012,15,65+ yr,26.2,2.9
+Entire Network,FluSurv-NET,2011-12,2012,16,65+ yr,28.8,2.6
+Entire Network,FluSurv-NET,2011-12,2012,17,65+ yr,30.2,1.4
+Entire Network,FluSurv-NET,2011-12,2011,40,Overall,0,0
+Entire Network,FluSurv-NET,2011-12,2011,41,Overall,0,0
+Entire Network,FluSurv-NET,2011-12,2011,42,Overall,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,43,Overall,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,44,Overall,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,45,Overall,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,46,Overall,0.1,0
+Entire Network,FluSurv-NET,2011-12,2011,47,Overall,0.2,0
+Entire Network,FluSurv-NET,2011-12,2011,48,Overall,0.2,0
+Entire Network,FluSurv-NET,2011-12,2011,49,Overall,0.2,0
+Entire Network,FluSurv-NET,2011-12,2011,50,Overall,0.3,0.1
+Entire Network,FluSurv-NET,2011-12,2011,51,Overall,0.3,0.1
+Entire Network,FluSurv-NET,2011-12,2011,52,Overall,0.4,0.1
+Entire Network,FluSurv-NET,2011-12,2012,1,Overall,0.5,0.1
+Entire Network,FluSurv-NET,2011-12,2012,2,Overall,0.6,0.1
+Entire Network,FluSurv-NET,2011-12,2012,3,Overall,0.7,0.1
+Entire Network,FluSurv-NET,2011-12,2012,4,Overall,0.8,0.1
+Entire Network,FluSurv-NET,2011-12,2012,5,Overall,1,0.2
+Entire Network,FluSurv-NET,2011-12,2012,6,Overall,1.2,0.2
+Entire Network,FluSurv-NET,2011-12,2012,7,Overall,1.5,0.3
+Entire Network,FluSurv-NET,2011-12,2012,8,Overall,1.9,0.4
+Entire Network,FluSurv-NET,2011-12,2012,9,Overall,2.5,0.6
+Entire Network,FluSurv-NET,2011-12,2012,10,Overall,3.3,0.8
+Entire Network,FluSurv-NET,2011-12,2012,11,Overall,4.4,1.1
+Entire Network,FluSurv-NET,2011-12,2012,12,Overall,5.4,1.1
+Entire Network,FluSurv-NET,2011-12,2012,13,Overall,6.2,0.8
+Entire Network,FluSurv-NET,2011-12,2012,14,Overall,6.9,0.7
+Entire Network,FluSurv-NET,2011-12,2012,15,Overall,7.7,0.7
+Entire Network,FluSurv-NET,2011-12,2012,16,Overall,8.3,0.6
+Entire Network,FluSurv-NET,2011-12,2012,17,Overall,8.7,0.4
+Entire Network,FluSurv-NET,2012-13,2012,40,0-4 yr,0.2,0.2
+Entire Network,FluSurv-NET,2012-13,2012,41,0-4 yr,0.2,0
+Entire Network,FluSurv-NET,2012-13,2012,42,0-4 yr,0.2,0
+Entire Network,FluSurv-NET,2012-13,2012,43,0-4 yr,0.3,0.2
+Entire Network,FluSurv-NET,2012-13,2012,44,0-4 yr,0.6,0.3
+Entire Network,FluSurv-NET,2012-13,2012,45,0-4 yr,1,0.4
+Entire Network,FluSurv-NET,2012-13,2012,46,0-4 yr,2.1,1.1
+Entire Network,FluSurv-NET,2012-13,2012,47,0-4 yr,3,0.9
+Entire Network,FluSurv-NET,2012-13,2012,48,0-4 yr,4.8,1.8
+Entire Network,FluSurv-NET,2012-13,2012,49,0-4 yr,7,2.3
+Entire Network,FluSurv-NET,2012-13,2012,50,0-4 yr,10.3,3.2
+Entire Network,FluSurv-NET,2012-13,2012,51,0-4 yr,15.1,4.8
+Entire Network,FluSurv-NET,2012-13,2012,52,0-4 yr,19.6,4.5
+Entire Network,FluSurv-NET,2012-13,2013,1,0-4 yr,25.7,6
+Entire Network,FluSurv-NET,2012-13,2013,2,0-4 yr,31.8,6.1
+Entire Network,FluSurv-NET,2012-13,2013,3,0-4 yr,37.4,5.6
+Entire Network,FluSurv-NET,2012-13,2013,4,0-4 yr,41.8,4.5
+Entire Network,FluSurv-NET,2012-13,2013,5,0-4 yr,45.8,4
+Entire Network,FluSurv-NET,2012-13,2013,6,0-4 yr,48.8,3.1
+Entire Network,FluSurv-NET,2012-13,2013,7,0-4 yr,51.9,3.1
+Entire Network,FluSurv-NET,2012-13,2013,8,0-4 yr,54.6,2.7
+Entire Network,FluSurv-NET,2012-13,2013,9,0-4 yr,56.9,2.3
+Entire Network,FluSurv-NET,2012-13,2013,10,0-4 yr,58.5,1.6
+Entire Network,FluSurv-NET,2012-13,2013,11,0-4 yr,60.7,2.2
+Entire Network,FluSurv-NET,2012-13,2013,12,0-4 yr,62.5,1.8
+Entire Network,FluSurv-NET,2012-13,2013,13,0-4 yr,63.7,1.2
+Entire Network,FluSurv-NET,2012-13,2013,14,0-4 yr,65.4,1.6
+Entire Network,FluSurv-NET,2012-13,2013,15,0-4 yr,65.9,0.5
+Entire Network,FluSurv-NET,2012-13,2013,16,0-4 yr,66.3,0.4
+Entire Network,FluSurv-NET,2012-13,2013,17,0-4 yr,67,0.7
+Entire Network,FluSurv-NET,2012-13,2012,40,5-17 yr,0,0
+Entire Network,FluSurv-NET,2012-13,2012,41,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2012-13,2012,42,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2012-13,2012,43,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2012-13,2012,44,5-17 yr,0.2,0.1
+Entire Network,FluSurv-NET,2012-13,2012,45,5-17 yr,0.3,0.1
+Entire Network,FluSurv-NET,2012-13,2012,46,5-17 yr,0.5,0.2
+Entire Network,FluSurv-NET,2012-13,2012,47,5-17 yr,0.8,0.3
+Entire Network,FluSurv-NET,2012-13,2012,48,5-17 yr,1.1,0.3
+Entire Network,FluSurv-NET,2012-13,2012,49,5-17 yr,2,0.9
+Entire Network,FluSurv-NET,2012-13,2012,50,5-17 yr,2.7,0.8
+Entire Network,FluSurv-NET,2012-13,2012,51,5-17 yr,3.8,1.1
+Entire Network,FluSurv-NET,2012-13,2012,52,5-17 yr,4.8,1
+Entire Network,FluSurv-NET,2012-13,2013,1,5-17 yr,5.6,0.8
+Entire Network,FluSurv-NET,2012-13,2013,2,5-17 yr,6.3,0.6
+Entire Network,FluSurv-NET,2012-13,2013,3,5-17 yr,7.2,1
+Entire Network,FluSurv-NET,2012-13,2013,4,5-17 yr,8.2,0.9
+Entire Network,FluSurv-NET,2012-13,2013,5,5-17 yr,9.1,0.9
+Entire Network,FluSurv-NET,2012-13,2013,6,5-17 yr,9.9,0.9
+Entire Network,FluSurv-NET,2012-13,2013,7,5-17 yr,10.5,0.5
+Entire Network,FluSurv-NET,2012-13,2013,8,5-17 yr,11.3,0.8
+Entire Network,FluSurv-NET,2012-13,2013,9,5-17 yr,11.7,0.4
+Entire Network,FluSurv-NET,2012-13,2013,10,5-17 yr,12.2,0.5
+Entire Network,FluSurv-NET,2012-13,2013,11,5-17 yr,12.8,0.6
+Entire Network,FluSurv-NET,2012-13,2013,12,5-17 yr,13.3,0.5
+Entire Network,FluSurv-NET,2012-13,2013,13,5-17 yr,13.9,0.5
+Entire Network,FluSurv-NET,2012-13,2013,14,5-17 yr,14.2,0.3
+Entire Network,FluSurv-NET,2012-13,2013,15,5-17 yr,14.4,0.2
+Entire Network,FluSurv-NET,2012-13,2013,16,5-17 yr,14.5,0.1
+Entire Network,FluSurv-NET,2012-13,2013,17,5-17 yr,14.6,0.1
+Entire Network,FluSurv-NET,2012-13,2012,40,18-49 yr,0,0
+Entire Network,FluSurv-NET,2012-13,2012,41,18-49 yr,0,0
+Entire Network,FluSurv-NET,2012-13,2012,42,18-49 yr,0,0
+Entire Network,FluSurv-NET,2012-13,2012,43,18-49 yr,0,0
+Entire Network,FluSurv-NET,2012-13,2012,44,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2012-13,2012,45,18-49 yr,0.2,0.1
+Entire Network,FluSurv-NET,2012-13,2012,46,18-49 yr,0.3,0.1
+Entire Network,FluSurv-NET,2012-13,2012,47,18-49 yr,0.6,0.3
+Entire Network,FluSurv-NET,2012-13,2012,48,18-49 yr,1,0.4
+Entire Network,FluSurv-NET,2012-13,2012,49,18-49 yr,1.8,0.8
+Entire Network,FluSurv-NET,2012-13,2012,50,18-49 yr,2.5,0.7
+Entire Network,FluSurv-NET,2012-13,2012,51,18-49 yr,3.8,1.3
+Entire Network,FluSurv-NET,2012-13,2012,52,18-49 yr,5.6,1.7
+Entire Network,FluSurv-NET,2012-13,2013,1,18-49 yr,7.3,1.7
+Entire Network,FluSurv-NET,2012-13,2013,2,18-49 yr,8.7,1.4
+Entire Network,FluSurv-NET,2012-13,2013,3,18-49 yr,10,1.3
+Entire Network,FluSurv-NET,2012-13,2013,4,18-49 yr,11,1
+Entire Network,FluSurv-NET,2012-13,2013,5,18-49 yr,11.7,0.8
+Entire Network,FluSurv-NET,2012-13,2013,6,18-49 yr,12.4,0.6
+Entire Network,FluSurv-NET,2012-13,2013,7,18-49 yr,13,0.6
+Entire Network,FluSurv-NET,2012-13,2013,8,18-49 yr,13.6,0.6
+Entire Network,FluSurv-NET,2012-13,2013,9,18-49 yr,14.1,0.5
+Entire Network,FluSurv-NET,2012-13,2013,10,18-49 yr,14.5,0.5
+Entire Network,FluSurv-NET,2012-13,2013,11,18-49 yr,15,0.4
+Entire Network,FluSurv-NET,2012-13,2013,12,18-49 yr,15.3,0.3
+Entire Network,FluSurv-NET,2012-13,2013,13,18-49 yr,15.5,0.2
+Entire Network,FluSurv-NET,2012-13,2013,14,18-49 yr,15.7,0.2
+Entire Network,FluSurv-NET,2012-13,2013,15,18-49 yr,15.9,0.2
+Entire Network,FluSurv-NET,2012-13,2013,16,18-49 yr,16,0.1
+Entire Network,FluSurv-NET,2012-13,2013,17,18-49 yr,16.1,0.1
+Entire Network,FluSurv-NET,2012-13,2012,40,50-64 yr,0,0
+Entire Network,FluSurv-NET,2012-13,2012,41,50-64 yr,0,0
+Entire Network,FluSurv-NET,2012-13,2012,42,50-64 yr,0.1,0.1
+Entire Network,FluSurv-NET,2012-13,2012,43,50-64 yr,0.1,0
+Entire Network,FluSurv-NET,2012-13,2012,44,50-64 yr,0.3,0.2
+Entire Network,FluSurv-NET,2012-13,2012,45,50-64 yr,0.4,0.1
+Entire Network,FluSurv-NET,2012-13,2012,46,50-64 yr,0.6,0.2
+Entire Network,FluSurv-NET,2012-13,2012,47,50-64 yr,1.1,0.5
+Entire Network,FluSurv-NET,2012-13,2012,48,50-64 yr,1.9,0.7
+Entire Network,FluSurv-NET,2012-13,2012,49,50-64 yr,3.6,1.7
+Entire Network,FluSurv-NET,2012-13,2012,50,50-64 yr,5.4,1.9
+Entire Network,FluSurv-NET,2012-13,2012,51,50-64 yr,8.3,2.9
+Entire Network,FluSurv-NET,2012-13,2012,52,50-64 yr,12.6,4.3
+Entire Network,FluSurv-NET,2012-13,2013,1,50-64 yr,17.6,4.9
+Entire Network,FluSurv-NET,2012-13,2013,2,50-64 yr,22.1,4.5
+Entire Network,FluSurv-NET,2012-13,2013,3,50-64 yr,25.4,3.4
+Entire Network,FluSurv-NET,2012-13,2013,4,50-64 yr,28.1,2.6
+Entire Network,FluSurv-NET,2012-13,2013,5,50-64 yr,30.4,2.4
+Entire Network,FluSurv-NET,2012-13,2013,6,50-64 yr,32,1.6
+Entire Network,FluSurv-NET,2012-13,2013,7,50-64 yr,33.7,1.7
+Entire Network,FluSurv-NET,2012-13,2013,8,50-64 yr,35.2,1.5
+Entire Network,FluSurv-NET,2012-13,2013,9,50-64 yr,36.3,1.1
+Entire Network,FluSurv-NET,2012-13,2013,10,50-64 yr,37.3,1
+Entire Network,FluSurv-NET,2012-13,2013,11,50-64 yr,38.2,0.9
+Entire Network,FluSurv-NET,2012-13,2013,12,50-64 yr,38.9,0.7
+Entire Network,FluSurv-NET,2012-13,2013,13,50-64 yr,39.4,0.5
+Entire Network,FluSurv-NET,2012-13,2013,14,50-64 yr,40.1,0.7
+Entire Network,FluSurv-NET,2012-13,2013,15,50-64 yr,40.5,0.4
+Entire Network,FluSurv-NET,2012-13,2013,16,50-64 yr,40.7,0.3
+Entire Network,FluSurv-NET,2012-13,2013,17,50-64 yr,40.9,0.1
+Entire Network,FluSurv-NET,2012-13,2012,40,65+ yr,0.1,0.1
+Entire Network,FluSurv-NET,2012-13,2012,41,65+ yr,0.2,0.1
+Entire Network,FluSurv-NET,2012-13,2012,42,65+ yr,0.4,0.2
+Entire Network,FluSurv-NET,2012-13,2012,43,65+ yr,0.5,0.1
+Entire Network,FluSurv-NET,2012-13,2012,44,65+ yr,0.6,0.1
+Entire Network,FluSurv-NET,2012-13,2012,45,65+ yr,1.2,0.6
+Entire Network,FluSurv-NET,2012-13,2012,46,65+ yr,1.7,0.5
+Entire Network,FluSurv-NET,2012-13,2012,47,65+ yr,2.9,1.2
+Entire Network,FluSurv-NET,2012-13,2012,48,65+ yr,5.5,2.6
+Entire Network,FluSurv-NET,2012-13,2012,49,65+ yr,8.9,3.4
+Entire Network,FluSurv-NET,2012-13,2012,50,65+ yr,16.4,7.5
+Entire Network,FluSurv-NET,2012-13,2012,51,65+ yr,28.8,12.4
+Entire Network,FluSurv-NET,2012-13,2012,52,65+ yr,53.4,24.6
+Entire Network,FluSurv-NET,2012-13,2013,1,65+ yr,79.9,26.5
+Entire Network,FluSurv-NET,2012-13,2013,2,65+ yr,104.2,24.3
+Entire Network,FluSurv-NET,2012-13,2013,3,65+ yr,120.9,16.7
+Entire Network,FluSurv-NET,2012-13,2013,4,65+ yr,135,14.1
+Entire Network,FluSurv-NET,2012-13,2013,5,65+ yr,146.4,11.4
+Entire Network,FluSurv-NET,2012-13,2013,6,65+ yr,154.9,8.5
+Entire Network,FluSurv-NET,2012-13,2013,7,65+ yr,161.8,6.9
+Entire Network,FluSurv-NET,2012-13,2013,8,65+ yr,165.6,3.8
+Entire Network,FluSurv-NET,2012-13,2013,9,65+ yr,170.2,4.6
+Entire Network,FluSurv-NET,2012-13,2013,10,65+ yr,173.7,3.5
+Entire Network,FluSurv-NET,2012-13,2013,11,65+ yr,176.3,2.6
+Entire Network,FluSurv-NET,2012-13,2013,12,65+ yr,178.4,2.2
+Entire Network,FluSurv-NET,2012-13,2013,13,65+ yr,180.1,1.7
+Entire Network,FluSurv-NET,2012-13,2013,14,65+ yr,181.7,1.6
+Entire Network,FluSurv-NET,2012-13,2013,15,65+ yr,183,1.3
+Entire Network,FluSurv-NET,2012-13,2013,16,65+ yr,183.4,0.4
+Entire Network,FluSurv-NET,2012-13,2013,17,65+ yr,183.9,0.5
+Entire Network,FluSurv-NET,2012-13,2012,40,Overall,0,0
+Entire Network,FluSurv-NET,2012-13,2012,41,Overall,0.1,0
+Entire Network,FluSurv-NET,2012-13,2012,42,Overall,0.1,0.1
+Entire Network,FluSurv-NET,2012-13,2012,43,Overall,0.1,0
+Entire Network,FluSurv-NET,2012-13,2012,44,Overall,0.2,0.1
+Entire Network,FluSurv-NET,2012-13,2012,45,Overall,0.4,0.2
+Entire Network,FluSurv-NET,2012-13,2012,46,Overall,0.7,0.3
+Entire Network,FluSurv-NET,2012-13,2012,47,Overall,1.2,0.5
+Entire Network,FluSurv-NET,2012-13,2012,48,Overall,2,0.8
+Entire Network,FluSurv-NET,2012-13,2012,49,Overall,3.4,1.4
+Entire Network,FluSurv-NET,2012-13,2012,50,Overall,5.3,1.9
+Entire Network,FluSurv-NET,2012-13,2012,51,Overall,8.4,3.1
+Entire Network,FluSurv-NET,2012-13,2012,52,Overall,13.4,5
+Entire Network,FluSurv-NET,2012-13,2013,1,Overall,18.8,5.4
+Entire Network,FluSurv-NET,2012-13,2013,2,Overall,23.8,4.9
+Entire Network,FluSurv-NET,2012-13,2013,3,Overall,27.5,3.8
+Entire Network,FluSurv-NET,2012-13,2013,4,Overall,30.6,3.1
+Entire Network,FluSurv-NET,2012-13,2013,5,Overall,33.2,2.6
+Entire Network,FluSurv-NET,2012-13,2013,6,Overall,35.2,2
+Entire Network,FluSurv-NET,2012-13,2013,7,Overall,36.9,1.7
+Entire Network,FluSurv-NET,2012-13,2013,8,Overall,38.2,1.3
+Entire Network,FluSurv-NET,2012-13,2013,9,Overall,39.4,1.2
+Entire Network,FluSurv-NET,2012-13,2013,10,Overall,40.4,1
+Entire Network,FluSurv-NET,2012-13,2013,11,Overall,41.3,0.9
+Entire Network,FluSurv-NET,2012-13,2013,12,Overall,42.1,0.7
+Entire Network,FluSurv-NET,2012-13,2013,13,Overall,42.7,0.6
+Entire Network,FluSurv-NET,2012-13,2013,14,Overall,43.2,0.6
+Entire Network,FluSurv-NET,2012-13,2013,15,Overall,43.6,0.4
+Entire Network,FluSurv-NET,2012-13,2013,16,Overall,43.8,0.2
+Entire Network,FluSurv-NET,2012-13,2013,17,Overall,44,0.2
+Entire Network,FluSurv-NET,2013-14,2013,40,0-4 yr,0.1,0.1
+Entire Network,FluSurv-NET,2013-14,2013,41,0-4 yr,0.1,0
+Entire Network,FluSurv-NET,2013-14,2013,42,0-4 yr,0.2,0.1
+Entire Network,FluSurv-NET,2013-14,2013,43,0-4 yr,0.5,0.3
+Entire Network,FluSurv-NET,2013-14,2013,44,0-4 yr,0.7,0.2
+Entire Network,FluSurv-NET,2013-14,2013,45,0-4 yr,0.9,0.2
+Entire Network,FluSurv-NET,2013-14,2013,46,0-4 yr,1.1,0.2
+Entire Network,FluSurv-NET,2013-14,2013,47,0-4 yr,1.6,0.5
+Entire Network,FluSurv-NET,2013-14,2013,48,0-4 yr,2.8,1.3
+Entire Network,FluSurv-NET,2013-14,2013,49,0-4 yr,4.6,1.8
+Entire Network,FluSurv-NET,2013-14,2013,50,0-4 yr,7.2,2.6
+Entire Network,FluSurv-NET,2013-14,2013,51,0-4 yr,10.2,3.1
+Entire Network,FluSurv-NET,2013-14,2013,52,0-4 yr,14,3.7
+Entire Network,FluSurv-NET,2013-14,2014,1,0-4 yr,20.4,6.4
+Entire Network,FluSurv-NET,2013-14,2014,2,0-4 yr,25.5,5.1
+Entire Network,FluSurv-NET,2013-14,2014,3,0-4 yr,29.6,4.1
+Entire Network,FluSurv-NET,2013-14,2014,4,0-4 yr,32.7,3.1
+Entire Network,FluSurv-NET,2013-14,2014,5,0-4 yr,35.2,2.5
+Entire Network,FluSurv-NET,2013-14,2014,6,0-4 yr,37.1,1.9
+Entire Network,FluSurv-NET,2013-14,2014,7,0-4 yr,38.5,1.4
+Entire Network,FluSurv-NET,2013-14,2014,8,0-4 yr,40,1.5
+Entire Network,FluSurv-NET,2013-14,2014,9,0-4 yr,41.2,1.2
+Entire Network,FluSurv-NET,2013-14,2014,10,0-4 yr,42,0.8
+Entire Network,FluSurv-NET,2013-14,2014,11,0-4 yr,42.7,0.7
+Entire Network,FluSurv-NET,2013-14,2014,12,0-4 yr,43.3,0.6
+Entire Network,FluSurv-NET,2013-14,2014,13,0-4 yr,44,0.7
+Entire Network,FluSurv-NET,2013-14,2014,14,0-4 yr,44.8,0.8
+Entire Network,FluSurv-NET,2013-14,2014,15,0-4 yr,45.6,0.8
+Entire Network,FluSurv-NET,2013-14,2014,16,0-4 yr,46.6,0.9
+Entire Network,FluSurv-NET,2013-14,2014,17,0-4 yr,47.3,0.7
+Entire Network,FluSurv-NET,2013-14,2013,40,5-17 yr,0,0
+Entire Network,FluSurv-NET,2013-14,2013,41,5-17 yr,0,0
+Entire Network,FluSurv-NET,2013-14,2013,42,5-17 yr,0,0
+Entire Network,FluSurv-NET,2013-14,2013,43,5-17 yr,0,0
+Entire Network,FluSurv-NET,2013-14,2013,44,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2013-14,2013,45,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2013-14,2013,46,5-17 yr,0.2,0.1
+Entire Network,FluSurv-NET,2013-14,2013,47,5-17 yr,0.3,0.1
+Entire Network,FluSurv-NET,2013-14,2013,48,5-17 yr,0.5,0.2
+Entire Network,FluSurv-NET,2013-14,2013,49,5-17 yr,0.8,0.3
+Entire Network,FluSurv-NET,2013-14,2013,50,5-17 yr,1.3,0.5
+Entire Network,FluSurv-NET,2013-14,2013,51,5-17 yr,2,0.7
+Entire Network,FluSurv-NET,2013-14,2013,52,5-17 yr,2.8,0.8
+Entire Network,FluSurv-NET,2013-14,2014,1,5-17 yr,3.4,0.6
+Entire Network,FluSurv-NET,2013-14,2014,2,5-17 yr,4.3,0.9
+Entire Network,FluSurv-NET,2013-14,2014,3,5-17 yr,4.9,0.6
+Entire Network,FluSurv-NET,2013-14,2014,4,5-17 yr,5.8,0.9
+Entire Network,FluSurv-NET,2013-14,2014,5,5-17 yr,6.3,0.6
+Entire Network,FluSurv-NET,2013-14,2014,6,5-17 yr,6.7,0.4
+Entire Network,FluSurv-NET,2013-14,2014,7,5-17 yr,7,0.3
+Entire Network,FluSurv-NET,2013-14,2014,8,5-17 yr,7.3,0.3
+Entire Network,FluSurv-NET,2013-14,2014,9,5-17 yr,7.5,0.2
+Entire Network,FluSurv-NET,2013-14,2014,10,5-17 yr,7.7,0.2
+Entire Network,FluSurv-NET,2013-14,2014,11,5-17 yr,7.9,0.2
+Entire Network,FluSurv-NET,2013-14,2014,12,5-17 yr,8.3,0.3
+Entire Network,FluSurv-NET,2013-14,2014,13,5-17 yr,8.5,0.2
+Entire Network,FluSurv-NET,2013-14,2014,14,5-17 yr,8.8,0.3
+Entire Network,FluSurv-NET,2013-14,2014,15,5-17 yr,8.9,0.1
+Entire Network,FluSurv-NET,2013-14,2014,16,5-17 yr,9.1,0.2
+Entire Network,FluSurv-NET,2013-14,2014,17,5-17 yr,9.4,0.3
+Entire Network,FluSurv-NET,2013-14,2013,40,18-49 yr,0,0
+Entire Network,FluSurv-NET,2013-14,2013,41,18-49 yr,0,0
+Entire Network,FluSurv-NET,2013-14,2013,42,18-49 yr,0,0
+Entire Network,FluSurv-NET,2013-14,2013,43,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2013-14,2013,44,18-49 yr,0.1,0.1
+Entire Network,FluSurv-NET,2013-14,2013,45,18-49 yr,0.3,0.1
+Entire Network,FluSurv-NET,2013-14,2013,46,18-49 yr,0.5,0.2
+Entire Network,FluSurv-NET,2013-14,2013,47,18-49 yr,0.8,0.3
+Entire Network,FluSurv-NET,2013-14,2013,48,18-49 yr,1.3,0.4
+Entire Network,FluSurv-NET,2013-14,2013,49,18-49 yr,2.1,0.8
+Entire Network,FluSurv-NET,2013-14,2013,50,18-49 yr,2.9,0.8
+Entire Network,FluSurv-NET,2013-14,2013,51,18-49 yr,4.5,1.6
+Entire Network,FluSurv-NET,2013-14,2013,52,18-49 yr,6.6,2.2
+Entire Network,FluSurv-NET,2013-14,2014,1,18-49 yr,9,2.4
+Entire Network,FluSurv-NET,2013-14,2014,2,18-49 yr,11.4,2.4
+Entire Network,FluSurv-NET,2013-14,2014,3,18-49 yr,13.5,2
+Entire Network,FluSurv-NET,2013-14,2014,4,18-49 yr,15.1,1.6
+Entire Network,FluSurv-NET,2013-14,2014,5,18-49 yr,16.3,1.2
+Entire Network,FluSurv-NET,2013-14,2014,6,18-49 yr,17.4,1.1
+Entire Network,FluSurv-NET,2013-14,2014,7,18-49 yr,18.1,0.7
+Entire Network,FluSurv-NET,2013-14,2014,8,18-49 yr,18.7,0.6
+Entire Network,FluSurv-NET,2013-14,2014,9,18-49 yr,19.1,0.5
+Entire Network,FluSurv-NET,2013-14,2014,10,18-49 yr,19.4,0.2
+Entire Network,FluSurv-NET,2013-14,2014,11,18-49 yr,19.6,0.2
+Entire Network,FluSurv-NET,2013-14,2014,12,18-49 yr,19.9,0.3
+Entire Network,FluSurv-NET,2013-14,2014,13,18-49 yr,20.2,0.3
+Entire Network,FluSurv-NET,2013-14,2014,14,18-49 yr,20.5,0.3
+Entire Network,FluSurv-NET,2013-14,2014,15,18-49 yr,20.9,0.4
+Entire Network,FluSurv-NET,2013-14,2014,16,18-49 yr,21.2,0.3
+Entire Network,FluSurv-NET,2013-14,2014,17,18-49 yr,21.4,0.3
+Entire Network,FluSurv-NET,2013-14,2013,40,50-64 yr,0,0
+Entire Network,FluSurv-NET,2013-14,2013,41,50-64 yr,0.2,0.1
+Entire Network,FluSurv-NET,2013-14,2013,42,50-64 yr,0.3,0.1
+Entire Network,FluSurv-NET,2013-14,2013,43,50-64 yr,0.3,0.1
+Entire Network,FluSurv-NET,2013-14,2013,44,50-64 yr,0.5,0.2
+Entire Network,FluSurv-NET,2013-14,2013,45,50-64 yr,0.6,0.1
+Entire Network,FluSurv-NET,2013-14,2013,46,50-64 yr,1,0.4
+Entire Network,FluSurv-NET,2013-14,2013,47,50-64 yr,1.5,0.5
+Entire Network,FluSurv-NET,2013-14,2013,48,50-64 yr,2.3,0.8
+Entire Network,FluSurv-NET,2013-14,2013,49,50-64 yr,3.6,1.4
+Entire Network,FluSurv-NET,2013-14,2013,50,50-64 yr,5.2,1.5
+Entire Network,FluSurv-NET,2013-14,2013,51,50-64 yr,7.9,2.8
+Entire Network,FluSurv-NET,2013-14,2013,52,50-64 yr,13,5.1
+Entire Network,FluSurv-NET,2013-14,2014,1,50-64 yr,19.1,6.2
+Entire Network,FluSurv-NET,2013-14,2014,2,50-64 yr,25.7,6.5
+Entire Network,FluSurv-NET,2013-14,2014,3,50-64 yr,31.1,5.4
+Entire Network,FluSurv-NET,2013-14,2014,4,50-64 yr,34.8,3.7
+Entire Network,FluSurv-NET,2013-14,2014,5,50-64 yr,38.3,3.5
+Entire Network,FluSurv-NET,2013-14,2014,6,50-64 yr,41.3,3
+Entire Network,FluSurv-NET,2013-14,2014,7,50-64 yr,43.7,2.4
+Entire Network,FluSurv-NET,2013-14,2014,8,50-64 yr,45.1,1.4
+Entire Network,FluSurv-NET,2013-14,2014,9,50-64 yr,46.4,1.4
+Entire Network,FluSurv-NET,2013-14,2014,10,50-64 yr,47.5,1.1
+Entire Network,FluSurv-NET,2013-14,2014,11,50-64 yr,48.4,0.9
+Entire Network,FluSurv-NET,2013-14,2014,12,50-64 yr,48.9,0.5
+Entire Network,FluSurv-NET,2013-14,2014,13,50-64 yr,49.9,0.9
+Entire Network,FluSurv-NET,2013-14,2014,14,50-64 yr,50.9,1
+Entire Network,FluSurv-NET,2013-14,2014,15,50-64 yr,51.8,1
+Entire Network,FluSurv-NET,2013-14,2014,16,50-64 yr,52.6,0.8
+Entire Network,FluSurv-NET,2013-14,2014,17,50-64 yr,53.7,1.1
+Entire Network,FluSurv-NET,2013-14,2013,40,65+ yr,0.1,0.1
+Entire Network,FluSurv-NET,2013-14,2013,41,65+ yr,0.4,0.3
+Entire Network,FluSurv-NET,2013-14,2013,42,65+ yr,0.7,0.4
+Entire Network,FluSurv-NET,2013-14,2013,43,65+ yr,1,0.2
+Entire Network,FluSurv-NET,2013-14,2013,44,65+ yr,1.3,0.3
+Entire Network,FluSurv-NET,2013-14,2013,45,65+ yr,1.6,0.3
+Entire Network,FluSurv-NET,2013-14,2013,46,65+ yr,1.9,0.3
+Entire Network,FluSurv-NET,2013-14,2013,47,65+ yr,2.4,0.5
+Entire Network,FluSurv-NET,2013-14,2013,48,65+ yr,3.2,0.8
+Entire Network,FluSurv-NET,2013-14,2013,49,65+ yr,4.8,1.6
+Entire Network,FluSurv-NET,2013-14,2013,50,65+ yr,6.6,1.7
+Entire Network,FluSurv-NET,2013-14,2013,51,65+ yr,10,3.4
+Entire Network,FluSurv-NET,2013-14,2013,52,65+ yr,16.4,6.5
+Entire Network,FluSurv-NET,2013-14,2014,1,65+ yr,25.6,9.2
+Entire Network,FluSurv-NET,2013-14,2014,2,65+ yr,33.3,7.7
+Entire Network,FluSurv-NET,2013-14,2014,3,65+ yr,39.8,6.5
+Entire Network,FluSurv-NET,2013-14,2014,4,65+ yr,45.3,5.5
+Entire Network,FluSurv-NET,2013-14,2014,5,65+ yr,50.3,5
+Entire Network,FluSurv-NET,2013-14,2014,6,65+ yr,54.5,4.2
+Entire Network,FluSurv-NET,2013-14,2014,7,65+ yr,57.3,2.8
+Entire Network,FluSurv-NET,2013-14,2014,8,65+ yr,60.2,2.9
+Entire Network,FluSurv-NET,2013-14,2014,9,65+ yr,62.8,2.6
+Entire Network,FluSurv-NET,2013-14,2014,10,65+ yr,65.1,2.2
+Entire Network,FluSurv-NET,2013-14,2014,11,65+ yr,67.7,2.6
+Entire Network,FluSurv-NET,2013-14,2014,12,65+ yr,70.7,3
+Entire Network,FluSurv-NET,2013-14,2014,13,65+ yr,73.1,2.4
+Entire Network,FluSurv-NET,2013-14,2014,14,65+ yr,75.7,2.6
+Entire Network,FluSurv-NET,2013-14,2014,15,65+ yr,79,3.3
+Entire Network,FluSurv-NET,2013-14,2014,16,65+ yr,81.5,2.5
+Entire Network,FluSurv-NET,2013-14,2014,17,65+ yr,84.8,3.3
+Entire Network,FluSurv-NET,2013-14,2013,40,Overall,0,0
+Entire Network,FluSurv-NET,2013-14,2013,41,Overall,0.1,0.1
+Entire Network,FluSurv-NET,2013-14,2013,42,Overall,0.2,0.1
+Entire Network,FluSurv-NET,2013-14,2013,43,Overall,0.3,0.1
+Entire Network,FluSurv-NET,2013-14,2013,44,Overall,0.4,0.1
+Entire Network,FluSurv-NET,2013-14,2013,45,Overall,0.5,0.1
+Entire Network,FluSurv-NET,2013-14,2013,46,Overall,0.7,0.2
+Entire Network,FluSurv-NET,2013-14,2013,47,Overall,1.1,0.4
+Entire Network,FluSurv-NET,2013-14,2013,48,Overall,1.7,0.6
+Entire Network,FluSurv-NET,2013-14,2013,49,Overall,2.7,1
+Entire Network,FluSurv-NET,2013-14,2013,50,Overall,3.8,1.1
+Entire Network,FluSurv-NET,2013-14,2013,51,Overall,5.8,2
+Entire Network,FluSurv-NET,2013-14,2013,52,Overall,8.9,3.1
+Entire Network,FluSurv-NET,2013-14,2014,1,Overall,12.8,3.9
+Entire Network,FluSurv-NET,2013-14,2014,2,Overall,16.6,3.8
+Entire Network,FluSurv-NET,2013-14,2014,3,Overall,19.7,3.1
+Entire Network,FluSurv-NET,2013-14,2014,4,Overall,22.2,2.5
+Entire Network,FluSurv-NET,2013-14,2014,5,Overall,24.3,2.1
+Entire Network,FluSurv-NET,2013-14,2014,6,Overall,26,1.8
+Entire Network,FluSurv-NET,2013-14,2014,7,Overall,27.3,1.3
+Entire Network,FluSurv-NET,2013-14,2014,8,Overall,28.4,1
+Entire Network,FluSurv-NET,2013-14,2014,9,Overall,29.3,0.9
+Entire Network,FluSurv-NET,2013-14,2014,10,Overall,29.9,0.7
+Entire Network,FluSurv-NET,2013-14,2014,11,Overall,30.6,0.7
+Entire Network,FluSurv-NET,2013-14,2014,12,Overall,31.3,0.7
+Entire Network,FluSurv-NET,2013-14,2014,13,Overall,32,0.7
+Entire Network,FluSurv-NET,2013-14,2014,14,Overall,32.8,0.8
+Entire Network,FluSurv-NET,2013-14,2014,15,Overall,33.6,0.8
+Entire Network,FluSurv-NET,2013-14,2014,16,Overall,34.3,0.7
+Entire Network,FluSurv-NET,2013-14,2014,17,Overall,35.1,0.8
+Entire Network,FluSurv-NET,2014-15,2014,40,0-4 yr,0.1,0.1
+Entire Network,FluSurv-NET,2014-15,2014,41,0-4 yr,0.2,0.1
+Entire Network,FluSurv-NET,2014-15,2014,42,0-4 yr,0.3,0.2
+Entire Network,FluSurv-NET,2014-15,2014,43,0-4 yr,0.5,0.1
+Entire Network,FluSurv-NET,2014-15,2014,44,0-4 yr,0.6,0.1
+Entire Network,FluSurv-NET,2014-15,2014,45,0-4 yr,1.1,0.5
+Entire Network,FluSurv-NET,2014-15,2014,46,0-4 yr,1.4,0.3
+Entire Network,FluSurv-NET,2014-15,2014,47,0-4 yr,2.1,0.7
+Entire Network,FluSurv-NET,2014-15,2014,48,0-4 yr,4,1.8
+Entire Network,FluSurv-NET,2014-15,2014,49,0-4 yr,7.4,3.4
+Entire Network,FluSurv-NET,2014-15,2014,50,0-4 yr,11.6,4.2
+Entire Network,FluSurv-NET,2014-15,2014,51,0-4 yr,17.1,5.6
+Entire Network,FluSurv-NET,2014-15,2014,52,0-4 yr,23.8,6.7
+Entire Network,FluSurv-NET,2014-15,2014,53,0-4 yr,29.5,5.7
+Entire Network,FluSurv-NET,2014-15,2015,1,0-4 yr,33,3.5
+Entire Network,FluSurv-NET,2014-15,2015,2,0-4 yr,36.3,3.3
+Entire Network,FluSurv-NET,2014-15,2015,3,0-4 yr,39.5,3.2
+Entire Network,FluSurv-NET,2014-15,2015,4,0-4 yr,42,2.5
+Entire Network,FluSurv-NET,2014-15,2015,5,0-4 yr,43.4,1.4
+Entire Network,FluSurv-NET,2014-15,2015,6,0-4 yr,45.3,1.8
+Entire Network,FluSurv-NET,2014-15,2015,7,0-4 yr,47.1,1.8
+Entire Network,FluSurv-NET,2014-15,2015,8,0-4 yr,48.4,1.4
+Entire Network,FluSurv-NET,2014-15,2015,9,0-4 yr,50.3,1.9
+Entire Network,FluSurv-NET,2014-15,2015,10,0-4 yr,52,1.6
+Entire Network,FluSurv-NET,2014-15,2015,11,0-4 yr,53.1,1.1
+Entire Network,FluSurv-NET,2014-15,2015,12,0-4 yr,54,0.9
+Entire Network,FluSurv-NET,2014-15,2015,13,0-4 yr,54.7,0.7
+Entire Network,FluSurv-NET,2014-15,2015,14,0-4 yr,55.8,1.1
+Entire Network,FluSurv-NET,2014-15,2015,15,0-4 yr,56.3,0.5
+Entire Network,FluSurv-NET,2014-15,2015,16,0-4 yr,56.8,0.5
+Entire Network,FluSurv-NET,2014-15,2015,17,0-4 yr,57.3,0.5
+Entire Network,FluSurv-NET,2014-15,2014,40,5-17 yr,0,0
+Entire Network,FluSurv-NET,2014-15,2014,41,5-17 yr,0,0
+Entire Network,FluSurv-NET,2014-15,2014,42,5-17 yr,0.1,0.1
+Entire Network,FluSurv-NET,2014-15,2014,43,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2014-15,2014,44,5-17 yr,0.2,0.1
+Entire Network,FluSurv-NET,2014-15,2014,45,5-17 yr,0.3,0.1
+Entire Network,FluSurv-NET,2014-15,2014,46,5-17 yr,0.5,0.2
+Entire Network,FluSurv-NET,2014-15,2014,47,5-17 yr,0.9,0.4
+Entire Network,FluSurv-NET,2014-15,2014,48,5-17 yr,1.6,0.6
+Entire Network,FluSurv-NET,2014-15,2014,49,5-17 yr,2.5,1
+Entire Network,FluSurv-NET,2014-15,2014,50,5-17 yr,4.1,1.6
+Entire Network,FluSurv-NET,2014-15,2014,51,5-17 yr,6.1,2.1
+Entire Network,FluSurv-NET,2014-15,2014,52,5-17 yr,8.5,2.4
+Entire Network,FluSurv-NET,2014-15,2014,53,5-17 yr,9.5,1
+Entire Network,FluSurv-NET,2014-15,2015,1,5-17 yr,10.2,0.7
+Entire Network,FluSurv-NET,2014-15,2015,2,5-17 yr,10.9,0.7
+Entire Network,FluSurv-NET,2014-15,2015,3,5-17 yr,11.5,0.6
+Entire Network,FluSurv-NET,2014-15,2015,4,5-17 yr,12,0.6
+Entire Network,FluSurv-NET,2014-15,2015,5,5-17 yr,12.5,0.5
+Entire Network,FluSurv-NET,2014-15,2015,6,5-17 yr,12.9,0.4
+Entire Network,FluSurv-NET,2014-15,2015,7,5-17 yr,13.3,0.4
+Entire Network,FluSurv-NET,2014-15,2015,8,5-17 yr,13.8,0.5
+Entire Network,FluSurv-NET,2014-15,2015,9,5-17 yr,14.3,0.5
+Entire Network,FluSurv-NET,2014-15,2015,10,5-17 yr,14.7,0.5
+Entire Network,FluSurv-NET,2014-15,2015,11,5-17 yr,15.2,0.4
+Entire Network,FluSurv-NET,2014-15,2015,12,5-17 yr,15.7,0.6
+Entire Network,FluSurv-NET,2014-15,2015,13,5-17 yr,16,0.3
+Entire Network,FluSurv-NET,2014-15,2015,14,5-17 yr,16.3,0.2
+Entire Network,FluSurv-NET,2014-15,2015,15,5-17 yr,16.4,0.2
+Entire Network,FluSurv-NET,2014-15,2015,16,5-17 yr,16.5,0.1
+Entire Network,FluSurv-NET,2014-15,2015,17,5-17 yr,16.6,0.1
+Entire Network,FluSurv-NET,2014-15,2014,40,18-49 yr,0,0
+Entire Network,FluSurv-NET,2014-15,2014,41,18-49 yr,0.1,0.1
+Entire Network,FluSurv-NET,2014-15,2014,42,18-49 yr,0.2,0.1
+Entire Network,FluSurv-NET,2014-15,2014,43,18-49 yr,0.2,0
+Entire Network,FluSurv-NET,2014-15,2014,44,18-49 yr,0.3,0
+Entire Network,FluSurv-NET,2014-15,2014,45,18-49 yr,0.3,0.1
+Entire Network,FluSurv-NET,2014-15,2014,46,18-49 yr,0.4,0.1
+Entire Network,FluSurv-NET,2014-15,2014,47,18-49 yr,0.6,0.2
+Entire Network,FluSurv-NET,2014-15,2014,48,18-49 yr,1.1,0.5
+Entire Network,FluSurv-NET,2014-15,2014,49,18-49 yr,2.1,1
+Entire Network,FluSurv-NET,2014-15,2014,50,18-49 yr,3.2,1.1
+Entire Network,FluSurv-NET,2014-15,2014,51,18-49 yr,5.2,2
+Entire Network,FluSurv-NET,2014-15,2014,52,18-49 yr,7.4,2.3
+Entire Network,FluSurv-NET,2014-15,2014,53,18-49 yr,9.2,1.8
+Entire Network,FluSurv-NET,2014-15,2015,1,18-49 yr,10.8,1.6
+Entire Network,FluSurv-NET,2014-15,2015,2,18-49 yr,11.7,1
+Entire Network,FluSurv-NET,2014-15,2015,3,18-49 yr,12.5,0.8
+Entire Network,FluSurv-NET,2014-15,2015,4,18-49 yr,13.1,0.6
+Entire Network,FluSurv-NET,2014-15,2015,5,18-49 yr,13.7,0.6
+Entire Network,FluSurv-NET,2014-15,2015,6,18-49 yr,14.3,0.6
+Entire Network,FluSurv-NET,2014-15,2015,7,18-49 yr,14.8,0.5
+Entire Network,FluSurv-NET,2014-15,2015,8,18-49 yr,15.3,0.5
+Entire Network,FluSurv-NET,2014-15,2015,9,18-49 yr,15.7,0.4
+Entire Network,FluSurv-NET,2014-15,2015,10,18-49 yr,16,0.4
+Entire Network,FluSurv-NET,2014-15,2015,11,18-49 yr,16.5,0.4
+Entire Network,FluSurv-NET,2014-15,2015,12,18-49 yr,16.9,0.4
+Entire Network,FluSurv-NET,2014-15,2015,13,18-49 yr,17.2,0.4
+Entire Network,FluSurv-NET,2014-15,2015,14,18-49 yr,17.5,0.3
+Entire Network,FluSurv-NET,2014-15,2015,15,18-49 yr,17.8,0.2
+Entire Network,FluSurv-NET,2014-15,2015,16,18-49 yr,18,0.2
+Entire Network,FluSurv-NET,2014-15,2015,17,18-49 yr,18.1,0.1
+Entire Network,FluSurv-NET,2014-15,2014,40,50-64 yr,0,0
+Entire Network,FluSurv-NET,2014-15,2014,41,50-64 yr,0.2,0.2
+Entire Network,FluSurv-NET,2014-15,2014,42,50-64 yr,0.4,0.2
+Entire Network,FluSurv-NET,2014-15,2014,43,50-64 yr,0.5,0.1
+Entire Network,FluSurv-NET,2014-15,2014,44,50-64 yr,0.7,0.2
+Entire Network,FluSurv-NET,2014-15,2014,45,50-64 yr,1,0.2
+Entire Network,FluSurv-NET,2014-15,2014,46,50-64 yr,1.2,0.2
+Entire Network,FluSurv-NET,2014-15,2014,47,50-64 yr,1.5,0.3
+Entire Network,FluSurv-NET,2014-15,2014,48,50-64 yr,2.5,1
+Entire Network,FluSurv-NET,2014-15,2014,49,50-64 yr,4.3,1.8
+Entire Network,FluSurv-NET,2014-15,2014,50,50-64 yr,7,2.7
+Entire Network,FluSurv-NET,2014-15,2014,51,50-64 yr,12.1,5.1
+Entire Network,FluSurv-NET,2014-15,2014,52,50-64 yr,19.3,7.1
+Entire Network,FluSurv-NET,2014-15,2014,53,50-64 yr,25.7,6.4
+Entire Network,FluSurv-NET,2014-15,2015,1,50-64 yr,30.2,4.5
+Entire Network,FluSurv-NET,2014-15,2015,2,50-64 yr,33.4,3.2
+Entire Network,FluSurv-NET,2014-15,2015,3,50-64 yr,35.9,2.5
+Entire Network,FluSurv-NET,2014-15,2015,4,50-64 yr,38.1,2.1
+Entire Network,FluSurv-NET,2014-15,2015,5,50-64 yr,39.9,1.8
+Entire Network,FluSurv-NET,2014-15,2015,6,50-64 yr,41.7,1.8
+Entire Network,FluSurv-NET,2014-15,2015,7,50-64 yr,43.1,1.4
+Entire Network,FluSurv-NET,2014-15,2015,8,50-64 yr,44.6,1.5
+Entire Network,FluSurv-NET,2014-15,2015,9,50-64 yr,45.9,1.3
+Entire Network,FluSurv-NET,2014-15,2015,10,50-64 yr,47.2,1.3
+Entire Network,FluSurv-NET,2014-15,2015,11,50-64 yr,48.3,1.1
+Entire Network,FluSurv-NET,2014-15,2015,12,50-64 yr,49.5,1.2
+Entire Network,FluSurv-NET,2014-15,2015,13,50-64 yr,50.8,1.3
+Entire Network,FluSurv-NET,2014-15,2015,14,50-64 yr,52,1.2
+Entire Network,FluSurv-NET,2014-15,2015,15,50-64 yr,52.9,0.9
+Entire Network,FluSurv-NET,2014-15,2015,16,50-64 yr,53.2,0.4
+Entire Network,FluSurv-NET,2014-15,2015,17,50-64 yr,53.4,0.2
+Entire Network,FluSurv-NET,2014-15,2014,40,65+ yr,0.3,0.3
+Entire Network,FluSurv-NET,2014-15,2014,41,65+ yr,0.7,0.4
+Entire Network,FluSurv-NET,2014-15,2014,42,65+ yr,1.4,0.7
+Entire Network,FluSurv-NET,2014-15,2014,43,65+ yr,1.7,0.3
+Entire Network,FluSurv-NET,2014-15,2014,44,65+ yr,1.8,0.2
+Entire Network,FluSurv-NET,2014-15,2014,45,65+ yr,2.3,0.5
+Entire Network,FluSurv-NET,2014-15,2014,46,65+ yr,3.1,0.8
+Entire Network,FluSurv-NET,2014-15,2014,47,65+ yr,4.9,1.8
+Entire Network,FluSurv-NET,2014-15,2014,48,65+ yr,9.3,4.4
+Entire Network,FluSurv-NET,2014-15,2014,49,65+ yr,18.5,9.2
+Entire Network,FluSurv-NET,2014-15,2014,50,65+ yr,34.9,16.4
+Entire Network,FluSurv-NET,2014-15,2014,51,65+ yr,61.9,27.1
+Entire Network,FluSurv-NET,2014-15,2014,52,65+ yr,107.8,45.9
+Entire Network,FluSurv-NET,2014-15,2014,53,65+ yr,154.2,46.4
+Entire Network,FluSurv-NET,2014-15,2015,1,65+ yr,187.3,33.1
+Entire Network,FluSurv-NET,2014-15,2015,2,65+ yr,209.4,22.2
+Entire Network,FluSurv-NET,2014-15,2015,3,65+ yr,225.2,15.8
+Entire Network,FluSurv-NET,2014-15,2015,4,65+ yr,239.2,14
+Entire Network,FluSurv-NET,2014-15,2015,5,65+ yr,252.5,13.3
+Entire Network,FluSurv-NET,2014-15,2015,6,65+ yr,262.1,9.6
+Entire Network,FluSurv-NET,2014-15,2015,7,65+ yr,269.4,7.3
+Entire Network,FluSurv-NET,2014-15,2015,8,65+ yr,275.5,6.1
+Entire Network,FluSurv-NET,2014-15,2015,9,65+ yr,280.8,5.3
+Entire Network,FluSurv-NET,2014-15,2015,10,65+ yr,285.8,5
+Entire Network,FluSurv-NET,2014-15,2015,11,65+ yr,290.7,4.8
+Entire Network,FluSurv-NET,2014-15,2015,12,65+ yr,294.7,4.1
+Entire Network,FluSurv-NET,2014-15,2015,13,65+ yr,298.6,3.9
+Entire Network,FluSurv-NET,2014-15,2015,14,65+ yr,302.8,4.2
+Entire Network,FluSurv-NET,2014-15,2015,15,65+ yr,305.9,3.2
+Entire Network,FluSurv-NET,2014-15,2015,16,65+ yr,307.8,1.9
+Entire Network,FluSurv-NET,2014-15,2015,17,65+ yr,308.8,1
+Entire Network,FluSurv-NET,2014-15,2014,40,Overall,0.1,0.1
+Entire Network,FluSurv-NET,2014-15,2014,41,Overall,0.2,0.1
+Entire Network,FluSurv-NET,2014-15,2014,42,Overall,0.4,0.2
+Entire Network,FluSurv-NET,2014-15,2014,43,Overall,0.5,0.1
+Entire Network,FluSurv-NET,2014-15,2014,44,Overall,0.6,0.1
+Entire Network,FluSurv-NET,2014-15,2014,45,Overall,0.7,0.2
+Entire Network,FluSurv-NET,2014-15,2014,46,Overall,1,0.2
+Entire Network,FluSurv-NET,2014-15,2014,47,Overall,1.5,0.5
+Entire Network,FluSurv-NET,2014-15,2014,48,Overall,2.7,1.2
+Entire Network,FluSurv-NET,2014-15,2014,49,Overall,5,2.3
+Entire Network,FluSurv-NET,2014-15,2014,50,Overall,8.6,3.6
+Entire Network,FluSurv-NET,2014-15,2014,51,Overall,14.7,6
+Entire Network,FluSurv-NET,2014-15,2014,52,Overall,23.7,9
+Entire Network,FluSurv-NET,2014-15,2014,53,Overall,32.2,8.5
+Entire Network,FluSurv-NET,2014-15,2015,1,Overall,38.3,6.1
+Entire Network,FluSurv-NET,2014-15,2015,2,Overall,42.5,4.2
+Entire Network,FluSurv-NET,2014-15,2015,3,Overall,45.6,3.1
+Entire Network,FluSurv-NET,2014-15,2015,4,Overall,48.4,2.7
+Entire Network,FluSurv-NET,2014-15,2015,5,Overall,50.9,2.5
+Entire Network,FluSurv-NET,2014-15,2015,6,Overall,52.9,2
+Entire Network,FluSurv-NET,2014-15,2015,7,Overall,54.5,1.6
+Entire Network,FluSurv-NET,2014-15,2015,8,Overall,55.9,1.4
+Entire Network,FluSurv-NET,2014-15,2015,9,Overall,57.2,1.3
+Entire Network,FluSurv-NET,2014-15,2015,10,Overall,58.5,1.2
+Entire Network,FluSurv-NET,2014-15,2015,11,Overall,59.6,1.2
+Entire Network,FluSurv-NET,2014-15,2015,12,Overall,60.7,1.1
+Entire Network,FluSurv-NET,2014-15,2015,13,Overall,61.7,1
+Entire Network,FluSurv-NET,2014-15,2015,14,Overall,62.7,1
+Entire Network,FluSurv-NET,2014-15,2015,15,Overall,63.4,0.7
+Entire Network,FluSurv-NET,2014-15,2015,16,Overall,63.9,0.5
+Entire Network,FluSurv-NET,2014-15,2015,17,Overall,64.2,0.3
+Entire Network,FluSurv-NET,2015-16,2015,40,0-4 yr,0.1,0.1
+Entire Network,FluSurv-NET,2015-16,2015,41,0-4 yr,0.3,0.2
+Entire Network,FluSurv-NET,2015-16,2015,42,0-4 yr,0.4,0.1
+Entire Network,FluSurv-NET,2015-16,2015,43,0-4 yr,0.5,0.1
+Entire Network,FluSurv-NET,2015-16,2015,44,0-4 yr,0.7,0.2
+Entire Network,FluSurv-NET,2015-16,2015,45,0-4 yr,0.9,0.1
+Entire Network,FluSurv-NET,2015-16,2015,46,0-4 yr,1.1,0.2
+Entire Network,FluSurv-NET,2015-16,2015,47,0-4 yr,1.3,0.2
+Entire Network,FluSurv-NET,2015-16,2015,48,0-4 yr,1.5,0.2
+Entire Network,FluSurv-NET,2015-16,2015,49,0-4 yr,1.7,0.2
+Entire Network,FluSurv-NET,2015-16,2015,50,0-4 yr,1.8,0.1
+Entire Network,FluSurv-NET,2015-16,2015,51,0-4 yr,2.1,0.3
+Entire Network,FluSurv-NET,2015-16,2015,52,0-4 yr,2.4,0.2
+Entire Network,FluSurv-NET,2015-16,2016,1,0-4 yr,2.8,0.5
+Entire Network,FluSurv-NET,2015-16,2016,2,0-4 yr,3.1,0.3
+Entire Network,FluSurv-NET,2015-16,2016,3,0-4 yr,3.4,0.3
+Entire Network,FluSurv-NET,2015-16,2016,4,0-4 yr,4,0.6
+Entire Network,FluSurv-NET,2015-16,2016,5,0-4 yr,5.1,1.1
+Entire Network,FluSurv-NET,2015-16,2016,6,0-4 yr,6.6,1.5
+Entire Network,FluSurv-NET,2015-16,2016,7,0-4 yr,10.2,3.6
+Entire Network,FluSurv-NET,2015-16,2016,8,0-4 yr,14.8,4.6
+Entire Network,FluSurv-NET,2015-16,2016,9,0-4 yr,19.3,4.5
+Entire Network,FluSurv-NET,2015-16,2016,10,0-4 yr,24.3,5
+Entire Network,FluSurv-NET,2015-16,2016,11,0-4 yr,29,4.8
+Entire Network,FluSurv-NET,2015-16,2016,12,0-4 yr,32.9,3.9
+Entire Network,FluSurv-NET,2015-16,2016,13,0-4 yr,36.5,3.6
+Entire Network,FluSurv-NET,2015-16,2016,14,0-4 yr,39,2.4
+Entire Network,FluSurv-NET,2015-16,2016,15,0-4 yr,40.5,1.5
+Entire Network,FluSurv-NET,2015-16,2016,16,0-4 yr,41.6,1.1
+Entire Network,FluSurv-NET,2015-16,2016,17,0-4 yr,42.5,0.9
+Entire Network,FluSurv-NET,2015-16,2015,40,5-17 yr,0,0
+Entire Network,FluSurv-NET,2015-16,2015,41,5-17 yr,0,0
+Entire Network,FluSurv-NET,2015-16,2015,42,5-17 yr,0,0
+Entire Network,FluSurv-NET,2015-16,2015,43,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2015-16,2015,44,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2015-16,2015,45,5-17 yr,0.2,0.1
+Entire Network,FluSurv-NET,2015-16,2015,46,5-17 yr,0.2,0
+Entire Network,FluSurv-NET,2015-16,2015,47,5-17 yr,0.2,0.1
+Entire Network,FluSurv-NET,2015-16,2015,48,5-17 yr,0.3,0
+Entire Network,FluSurv-NET,2015-16,2015,49,5-17 yr,0.3,0.1
+Entire Network,FluSurv-NET,2015-16,2015,50,5-17 yr,0.4,0
+Entire Network,FluSurv-NET,2015-16,2015,51,5-17 yr,0.4,0
+Entire Network,FluSurv-NET,2015-16,2015,52,5-17 yr,0.4,0
+Entire Network,FluSurv-NET,2015-16,2016,1,5-17 yr,0.5,0.1
+Entire Network,FluSurv-NET,2015-16,2016,2,5-17 yr,0.6,0.1
+Entire Network,FluSurv-NET,2015-16,2016,3,5-17 yr,0.9,0.3
+Entire Network,FluSurv-NET,2015-16,2016,4,5-17 yr,1,0.1
+Entire Network,FluSurv-NET,2015-16,2016,5,5-17 yr,1.3,0.3
+Entire Network,FluSurv-NET,2015-16,2016,6,5-17 yr,1.6,0.3
+Entire Network,FluSurv-NET,2015-16,2016,7,5-17 yr,2.4,0.8
+Entire Network,FluSurv-NET,2015-16,2016,8,5-17 yr,3.2,0.8
+Entire Network,FluSurv-NET,2015-16,2016,9,5-17 yr,4.3,1.1
+Entire Network,FluSurv-NET,2015-16,2016,10,5-17 yr,5.5,1.2
+Entire Network,FluSurv-NET,2015-16,2016,11,5-17 yr,6.8,1.3
+Entire Network,FluSurv-NET,2015-16,2016,12,5-17 yr,7.6,0.9
+Entire Network,FluSurv-NET,2015-16,2016,13,5-17 yr,8.2,0.6
+Entire Network,FluSurv-NET,2015-16,2016,14,5-17 yr,8.7,0.5
+Entire Network,FluSurv-NET,2015-16,2016,15,5-17 yr,9.1,0.5
+Entire Network,FluSurv-NET,2015-16,2016,16,5-17 yr,9.4,0.3
+Entire Network,FluSurv-NET,2015-16,2016,17,5-17 yr,9.7,0.3
+Entire Network,FluSurv-NET,2015-16,2015,40,18-49 yr,0,0
+Entire Network,FluSurv-NET,2015-16,2015,41,18-49 yr,0,0
+Entire Network,FluSurv-NET,2015-16,2015,42,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2015-16,2015,43,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2015-16,2015,44,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2015-16,2015,45,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2015-16,2015,46,18-49 yr,0.2,0
+Entire Network,FluSurv-NET,2015-16,2015,47,18-49 yr,0.2,0
+Entire Network,FluSurv-NET,2015-16,2015,48,18-49 yr,0.3,0
+Entire Network,FluSurv-NET,2015-16,2015,49,18-49 yr,0.3,0
+Entire Network,FluSurv-NET,2015-16,2015,50,18-49 yr,0.4,0.1
+Entire Network,FluSurv-NET,2015-16,2015,51,18-49 yr,0.5,0.1
+Entire Network,FluSurv-NET,2015-16,2015,52,18-49 yr,0.6,0.1
+Entire Network,FluSurv-NET,2015-16,2016,1,18-49 yr,0.8,0.2
+Entire Network,FluSurv-NET,2015-16,2016,2,18-49 yr,0.9,0.1
+Entire Network,FluSurv-NET,2015-16,2016,3,18-49 yr,1,0.1
+Entire Network,FluSurv-NET,2015-16,2016,4,18-49 yr,1.4,0.4
+Entire Network,FluSurv-NET,2015-16,2016,5,18-49 yr,1.9,0.4
+Entire Network,FluSurv-NET,2015-16,2016,6,18-49 yr,2.6,0.7
+Entire Network,FluSurv-NET,2015-16,2016,7,18-49 yr,3.6,1
+Entire Network,FluSurv-NET,2015-16,2016,8,18-49 yr,5.1,1.5
+Entire Network,FluSurv-NET,2015-16,2016,9,18-49 yr,6.8,1.7
+Entire Network,FluSurv-NET,2015-16,2016,10,18-49 yr,9.2,2.5
+Entire Network,FluSurv-NET,2015-16,2016,11,18-49 yr,11.2,2
+Entire Network,FluSurv-NET,2015-16,2016,12,18-49 yr,12.8,1.6
+Entire Network,FluSurv-NET,2015-16,2016,13,18-49 yr,14,1.2
+Entire Network,FluSurv-NET,2015-16,2016,14,18-49 yr,14.9,0.9
+Entire Network,FluSurv-NET,2015-16,2016,15,18-49 yr,15.5,0.6
+Entire Network,FluSurv-NET,2015-16,2016,16,18-49 yr,16,0.6
+Entire Network,FluSurv-NET,2015-16,2016,17,18-49 yr,16.4,0.4
+Entire Network,FluSurv-NET,2015-16,2015,40,50-64 yr,0.1,0.1
+Entire Network,FluSurv-NET,2015-16,2015,41,50-64 yr,0.2,0.1
+Entire Network,FluSurv-NET,2015-16,2015,42,50-64 yr,0.2,0
+Entire Network,FluSurv-NET,2015-16,2015,43,50-64 yr,0.3,0.1
+Entire Network,FluSurv-NET,2015-16,2015,44,50-64 yr,0.4,0.1
+Entire Network,FluSurv-NET,2015-16,2015,45,50-64 yr,0.4,0
+Entire Network,FluSurv-NET,2015-16,2015,46,50-64 yr,0.5,0.1
+Entire Network,FluSurv-NET,2015-16,2015,47,50-64 yr,0.6,0.1
+Entire Network,FluSurv-NET,2015-16,2015,48,50-64 yr,0.7,0.1
+Entire Network,FluSurv-NET,2015-16,2015,49,50-64 yr,0.9,0.2
+Entire Network,FluSurv-NET,2015-16,2015,50,50-64 yr,1.1,0.1
+Entire Network,FluSurv-NET,2015-16,2015,51,50-64 yr,1.2,0.1
+Entire Network,FluSurv-NET,2015-16,2015,52,50-64 yr,1.5,0.3
+Entire Network,FluSurv-NET,2015-16,2016,1,50-64 yr,1.9,0.4
+Entire Network,FluSurv-NET,2015-16,2016,2,50-64 yr,2.3,0.4
+Entire Network,FluSurv-NET,2015-16,2016,3,50-64 yr,2.8,0.5
+Entire Network,FluSurv-NET,2015-16,2016,4,50-64 yr,3.6,0.8
+Entire Network,FluSurv-NET,2015-16,2016,5,50-64 yr,4.9,1.3
+Entire Network,FluSurv-NET,2015-16,2016,6,50-64 yr,6.4,1.5
+Entire Network,FluSurv-NET,2015-16,2016,7,50-64 yr,9.5,3.1
+Entire Network,FluSurv-NET,2015-16,2016,8,50-64 yr,13.5,4
+Entire Network,FluSurv-NET,2015-16,2016,9,50-64 yr,18.7,5.1
+Entire Network,FluSurv-NET,2015-16,2016,10,50-64 yr,25.1,6.5
+Entire Network,FluSurv-NET,2015-16,2016,11,50-64 yr,30,4.9
+Entire Network,FluSurv-NET,2015-16,2016,12,50-64 yr,34.4,4.4
+Entire Network,FluSurv-NET,2015-16,2016,13,50-64 yr,38,3.6
+Entire Network,FluSurv-NET,2015-16,2016,14,50-64 yr,40.5,2.5
+Entire Network,FluSurv-NET,2015-16,2016,15,50-64 yr,42.8,2.2
+Entire Network,FluSurv-NET,2015-16,2016,16,50-64 yr,44.2,1.4
+Entire Network,FluSurv-NET,2015-16,2016,17,50-64 yr,45.2,1
+Entire Network,FluSurv-NET,2015-16,2015,40,65+ yr,0.4,0.4
+Entire Network,FluSurv-NET,2015-16,2015,41,65+ yr,0.7,0.3
+Entire Network,FluSurv-NET,2015-16,2015,42,65+ yr,1,0.3
+Entire Network,FluSurv-NET,2015-16,2015,43,65+ yr,1.1,0.2
+Entire Network,FluSurv-NET,2015-16,2015,44,65+ yr,1.4,0.2
+Entire Network,FluSurv-NET,2015-16,2015,45,65+ yr,1.6,0.2
+Entire Network,FluSurv-NET,2015-16,2015,46,65+ yr,1.9,0.2
+Entire Network,FluSurv-NET,2015-16,2015,47,65+ yr,2.1,0.3
+Entire Network,FluSurv-NET,2015-16,2015,48,65+ yr,2.4,0.2
+Entire Network,FluSurv-NET,2015-16,2015,49,65+ yr,2.7,0.4
+Entire Network,FluSurv-NET,2015-16,2015,50,65+ yr,3.3,0.5
+Entire Network,FluSurv-NET,2015-16,2015,51,65+ yr,4.2,0.9
+Entire Network,FluSurv-NET,2015-16,2015,52,65+ yr,4.8,0.6
+Entire Network,FluSurv-NET,2015-16,2016,1,65+ yr,6.2,1.4
+Entire Network,FluSurv-NET,2015-16,2016,2,65+ yr,7.3,1.1
+Entire Network,FluSurv-NET,2015-16,2016,3,65+ yr,8.5,1.2
+Entire Network,FluSurv-NET,2015-16,2016,4,65+ yr,10,1.6
+Entire Network,FluSurv-NET,2015-16,2016,5,65+ yr,12.2,2.1
+Entire Network,FluSurv-NET,2015-16,2016,6,65+ yr,15.5,3.4
+Entire Network,FluSurv-NET,2015-16,2016,7,65+ yr,20.1,4.6
+Entire Network,FluSurv-NET,2015-16,2016,8,65+ yr,25.4,5.3
+Entire Network,FluSurv-NET,2015-16,2016,9,65+ yr,33.5,8.1
+Entire Network,FluSurv-NET,2015-16,2016,10,65+ yr,44.1,10.7
+Entire Network,FluSurv-NET,2015-16,2016,11,65+ yr,52.7,8.5
+Entire Network,FluSurv-NET,2015-16,2016,12,65+ yr,60.5,7.8
+Entire Network,FluSurv-NET,2015-16,2016,13,65+ yr,68.1,7.6
+Entire Network,FluSurv-NET,2015-16,2016,14,65+ yr,73.9,5.7
+Entire Network,FluSurv-NET,2015-16,2016,15,65+ yr,78.4,4.5
+Entire Network,FluSurv-NET,2015-16,2016,16,65+ yr,82.3,3.9
+Entire Network,FluSurv-NET,2015-16,2016,17,65+ yr,84.7,2.5
+Entire Network,FluSurv-NET,2015-16,2015,40,Overall,0.1,0.1
+Entire Network,FluSurv-NET,2015-16,2015,41,Overall,0.2,0.1
+Entire Network,FluSurv-NET,2015-16,2015,42,Overall,0.2,0.1
+Entire Network,FluSurv-NET,2015-16,2015,43,Overall,0.3,0.1
+Entire Network,FluSurv-NET,2015-16,2015,44,Overall,0.4,0.1
+Entire Network,FluSurv-NET,2015-16,2015,45,Overall,0.4,0.1
+Entire Network,FluSurv-NET,2015-16,2015,46,Overall,0.5,0.1
+Entire Network,FluSurv-NET,2015-16,2015,47,Overall,0.6,0.1
+Entire Network,FluSurv-NET,2015-16,2015,48,Overall,0.7,0.1
+Entire Network,FluSurv-NET,2015-16,2015,49,Overall,0.8,0.1
+Entire Network,FluSurv-NET,2015-16,2015,50,Overall,1,0.1
+Entire Network,FluSurv-NET,2015-16,2015,51,Overall,1.2,0.2
+Entire Network,FluSurv-NET,2015-16,2015,52,Overall,1.4,0.2
+Entire Network,FluSurv-NET,2015-16,2016,1,Overall,1.8,0.4
+Entire Network,FluSurv-NET,2015-16,2016,2,Overall,2.1,0.3
+Entire Network,FluSurv-NET,2015-16,2016,3,Overall,2.5,0.4
+Entire Network,FluSurv-NET,2015-16,2016,4,Overall,3.1,0.6
+Entire Network,FluSurv-NET,2015-16,2016,5,Overall,3.9,0.8
+Entire Network,FluSurv-NET,2015-16,2016,6,Overall,5.1,1.2
+Entire Network,FluSurv-NET,2015-16,2016,7,Overall,7.1,2
+Entire Network,FluSurv-NET,2015-16,2016,8,Overall,9.7,2.5
+Entire Network,FluSurv-NET,2015-16,2016,9,Overall,12.9,3.3
+Entire Network,FluSurv-NET,2015-16,2016,10,Overall,17.2,4.3
+Entire Network,FluSurv-NET,2015-16,2016,11,Overall,20.6,3.5
+Entire Network,FluSurv-NET,2015-16,2016,12,Overall,23.6,3
+Entire Network,FluSurv-NET,2015-16,2016,13,Overall,26.2,2.6
+Entire Network,FluSurv-NET,2015-16,2016,14,Overall,28.1,1.9
+Entire Network,FluSurv-NET,2015-16,2016,15,Overall,29.5,1.4
+Entire Network,FluSurv-NET,2015-16,2016,16,Overall,30.7,1.2
+Entire Network,FluSurv-NET,2015-16,2016,17,Overall,31.5,0.8
+Entire Network,FluSurv-NET,2016-17,2016,40,0-4 yr,0.1,0.1
+Entire Network,FluSurv-NET,2016-17,2016,41,0-4 yr,0.2,0.1
+Entire Network,FluSurv-NET,2016-17,2016,42,0-4 yr,0.2,0
+Entire Network,FluSurv-NET,2016-17,2016,43,0-4 yr,0.2,0
+Entire Network,FluSurv-NET,2016-17,2016,44,0-4 yr,0.2,0
+Entire Network,FluSurv-NET,2016-17,2016,45,0-4 yr,0.4,0.2
+Entire Network,FluSurv-NET,2016-17,2016,46,0-4 yr,0.5,0.1
+Entire Network,FluSurv-NET,2016-17,2016,47,0-4 yr,0.6,0.2
+Entire Network,FluSurv-NET,2016-17,2016,48,0-4 yr,1,0.3
+Entire Network,FluSurv-NET,2016-17,2016,49,0-4 yr,1.5,0.6
+Entire Network,FluSurv-NET,2016-17,2016,50,0-4 yr,1.9,0.4
+Entire Network,FluSurv-NET,2016-17,2016,51,0-4 yr,3.5,1.6
+Entire Network,FluSurv-NET,2016-17,2016,52,0-4 yr,4.9,1.3
+Entire Network,FluSurv-NET,2016-17,2017,1,0-4 yr,6,1.1
+Entire Network,FluSurv-NET,2016-17,2017,2,0-4 yr,7.4,1.5
+Entire Network,FluSurv-NET,2016-17,2017,3,0-4 yr,9.2,1.8
+Entire Network,FluSurv-NET,2016-17,2017,4,0-4 yr,11.4,2.2
+Entire Network,FluSurv-NET,2016-17,2017,5,0-4 yr,13.8,2.4
+Entire Network,FluSurv-NET,2016-17,2017,6,0-4 yr,17.3,3.5
+Entire Network,FluSurv-NET,2016-17,2017,7,0-4 yr,21.5,4.2
+Entire Network,FluSurv-NET,2016-17,2017,8,0-4 yr,25.6,4.1
+Entire Network,FluSurv-NET,2016-17,2017,9,0-4 yr,28.3,2.7
+Entire Network,FluSurv-NET,2016-17,2017,10,0-4 yr,30.3,1.9
+Entire Network,FluSurv-NET,2016-17,2017,11,0-4 yr,32.3,2.1
+Entire Network,FluSurv-NET,2016-17,2017,12,0-4 yr,34.9,2.5
+Entire Network,FluSurv-NET,2016-17,2017,13,0-4 yr,36.9,2
+Entire Network,FluSurv-NET,2016-17,2017,14,0-4 yr,38.6,1.7
+Entire Network,FluSurv-NET,2016-17,2017,15,0-4 yr,39.5,0.9
+Entire Network,FluSurv-NET,2016-17,2017,16,0-4 yr,40.4,0.9
+Entire Network,FluSurv-NET,2016-17,2017,17,0-4 yr,40.8,0.4
+Entire Network,FluSurv-NET,2016-17,2016,40,5-17 yr,0,0
+Entire Network,FluSurv-NET,2016-17,2016,41,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2016-17,2016,42,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2016-17,2016,43,5-17 yr,0.1,0.1
+Entire Network,FluSurv-NET,2016-17,2016,44,5-17 yr,0.2,0
+Entire Network,FluSurv-NET,2016-17,2016,45,5-17 yr,0.2,0
+Entire Network,FluSurv-NET,2016-17,2016,46,5-17 yr,0.2,0
+Entire Network,FluSurv-NET,2016-17,2016,47,5-17 yr,0.3,0
+Entire Network,FluSurv-NET,2016-17,2016,48,5-17 yr,0.4,0.1
+Entire Network,FluSurv-NET,2016-17,2016,49,5-17 yr,0.5,0.1
+Entire Network,FluSurv-NET,2016-17,2016,50,5-17 yr,0.7,0.2
+Entire Network,FluSurv-NET,2016-17,2016,51,5-17 yr,1,0.3
+Entire Network,FluSurv-NET,2016-17,2016,52,5-17 yr,1.2,0.3
+Entire Network,FluSurv-NET,2016-17,2017,1,5-17 yr,1.5,0.2
+Entire Network,FluSurv-NET,2016-17,2017,2,5-17 yr,2.1,0.7
+Entire Network,FluSurv-NET,2016-17,2017,3,5-17 yr,3,0.9
+Entire Network,FluSurv-NET,2016-17,2017,4,5-17 yr,3.8,0.7
+Entire Network,FluSurv-NET,2016-17,2017,5,5-17 yr,4.9,1.1
+Entire Network,FluSurv-NET,2016-17,2017,6,5-17 yr,6.2,1.3
+Entire Network,FluSurv-NET,2016-17,2017,7,5-17 yr,7.9,1.7
+Entire Network,FluSurv-NET,2016-17,2017,8,5-17 yr,9.5,1.5
+Entire Network,FluSurv-NET,2016-17,2017,9,5-17 yr,10,0.6
+Entire Network,FluSurv-NET,2016-17,2017,10,5-17 yr,11,1
+Entire Network,FluSurv-NET,2016-17,2017,11,5-17 yr,12.1,1.1
+Entire Network,FluSurv-NET,2016-17,2017,12,5-17 yr,13,0.9
+Entire Network,FluSurv-NET,2016-17,2017,13,5-17 yr,14,1
+Entire Network,FluSurv-NET,2016-17,2017,14,5-17 yr,14.5,0.5
+Entire Network,FluSurv-NET,2016-17,2017,15,5-17 yr,14.9,0.5
+Entire Network,FluSurv-NET,2016-17,2017,16,5-17 yr,15.3,0.4
+Entire Network,FluSurv-NET,2016-17,2017,17,5-17 yr,15.5,0.2
+Entire Network,FluSurv-NET,2016-17,2016,40,18-49 yr,0,0
+Entire Network,FluSurv-NET,2016-17,2016,41,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2016-17,2016,42,18-49 yr,0.1,0.1
+Entire Network,FluSurv-NET,2016-17,2016,43,18-49 yr,0.2,0
+Entire Network,FluSurv-NET,2016-17,2016,44,18-49 yr,0.2,0
+Entire Network,FluSurv-NET,2016-17,2016,45,18-49 yr,0.3,0.1
+Entire Network,FluSurv-NET,2016-17,2016,46,18-49 yr,0.3,0
+Entire Network,FluSurv-NET,2016-17,2016,47,18-49 yr,0.5,0.2
+Entire Network,FluSurv-NET,2016-17,2016,48,18-49 yr,0.6,0.1
+Entire Network,FluSurv-NET,2016-17,2016,49,18-49 yr,0.8,0.2
+Entire Network,FluSurv-NET,2016-17,2016,50,18-49 yr,1.1,0.3
+Entire Network,FluSurv-NET,2016-17,2016,51,18-49 yr,1.6,0.5
+Entire Network,FluSurv-NET,2016-17,2016,52,18-49 yr,2.4,0.8
+Entire Network,FluSurv-NET,2016-17,2017,1,18-49 yr,3.5,1
+Entire Network,FluSurv-NET,2016-17,2017,2,18-49 yr,4.4,0.9
+Entire Network,FluSurv-NET,2016-17,2017,3,18-49 yr,5.5,1.1
+Entire Network,FluSurv-NET,2016-17,2017,4,18-49 yr,6.5,1
+Entire Network,FluSurv-NET,2016-17,2017,5,18-49 yr,7.7,1.2
+Entire Network,FluSurv-NET,2016-17,2017,6,18-49 yr,8.9,1.2
+Entire Network,FluSurv-NET,2016-17,2017,7,18-49 yr,10.4,1.5
+Entire Network,FluSurv-NET,2016-17,2017,8,18-49 yr,12,1.6
+Entire Network,FluSurv-NET,2016-17,2017,9,18-49 yr,12.9,0.9
+Entire Network,FluSurv-NET,2016-17,2017,10,18-49 yr,13.5,0.7
+Entire Network,FluSurv-NET,2016-17,2017,11,18-49 yr,14.4,0.9
+Entire Network,FluSurv-NET,2016-17,2017,12,18-49 yr,15.4,1
+Entire Network,FluSurv-NET,2016-17,2017,13,18-49 yr,16.4,1
+Entire Network,FluSurv-NET,2016-17,2017,14,18-49 yr,17,0.7
+Entire Network,FluSurv-NET,2016-17,2017,15,18-49 yr,17.4,0.3
+Entire Network,FluSurv-NET,2016-17,2017,16,18-49 yr,17.6,0.3
+Entire Network,FluSurv-NET,2016-17,2017,17,18-49 yr,17.9,0.2
+Entire Network,FluSurv-NET,2016-17,2016,40,50-64 yr,0.1,0.1
+Entire Network,FluSurv-NET,2016-17,2016,41,50-64 yr,0.2,0.1
+Entire Network,FluSurv-NET,2016-17,2016,42,50-64 yr,0.3,0.1
+Entire Network,FluSurv-NET,2016-17,2016,43,50-64 yr,0.5,0.1
+Entire Network,FluSurv-NET,2016-17,2016,44,50-64 yr,0.6,0.1
+Entire Network,FluSurv-NET,2016-17,2016,45,50-64 yr,0.8,0.2
+Entire Network,FluSurv-NET,2016-17,2016,46,50-64 yr,1,0.2
+Entire Network,FluSurv-NET,2016-17,2016,47,50-64 yr,1.4,0.4
+Entire Network,FluSurv-NET,2016-17,2016,48,50-64 yr,1.7,0.4
+Entire Network,FluSurv-NET,2016-17,2016,49,50-64 yr,2.3,0.5
+Entire Network,FluSurv-NET,2016-17,2016,50,50-64 yr,3.3,1.1
+Entire Network,FluSurv-NET,2016-17,2016,51,50-64 yr,4.8,1.5
+Entire Network,FluSurv-NET,2016-17,2016,52,50-64 yr,7.8,2.9
+Entire Network,FluSurv-NET,2016-17,2017,1,50-64 yr,11.7,4
+Entire Network,FluSurv-NET,2016-17,2017,2,50-64 yr,15.7,3.9
+Entire Network,FluSurv-NET,2016-17,2017,3,50-64 yr,19.5,3.8
+Entire Network,FluSurv-NET,2016-17,2017,4,50-64 yr,22.9,3.4
+Entire Network,FluSurv-NET,2016-17,2017,5,50-64 yr,26.3,3.4
+Entire Network,FluSurv-NET,2016-17,2017,6,50-64 yr,31.1,4.8
+Entire Network,FluSurv-NET,2016-17,2017,7,50-64 yr,36.1,5
+Entire Network,FluSurv-NET,2016-17,2017,8,50-64 yr,41.5,5.3
+Entire Network,FluSurv-NET,2016-17,2017,9,50-64 yr,44.7,3.2
+Entire Network,FluSurv-NET,2016-17,2017,10,50-64 yr,48,3.3
+Entire Network,FluSurv-NET,2016-17,2017,11,50-64 yr,50.9,2.9
+Entire Network,FluSurv-NET,2016-17,2017,12,50-64 yr,54,3.1
+Entire Network,FluSurv-NET,2016-17,2017,13,50-64 yr,57.3,3.3
+Entire Network,FluSurv-NET,2016-17,2017,14,50-64 yr,59.3,2
+Entire Network,FluSurv-NET,2016-17,2017,15,50-64 yr,60.8,1.5
+Entire Network,FluSurv-NET,2016-17,2017,16,50-64 yr,62,1.2
+Entire Network,FluSurv-NET,2016-17,2017,17,50-64 yr,62.7,0.8
+Entire Network,FluSurv-NET,2016-17,2016,40,65+ yr,0.3,0.3
+Entire Network,FluSurv-NET,2016-17,2016,41,65+ yr,0.7,0.4
+Entire Network,FluSurv-NET,2016-17,2016,42,65+ yr,1.1,0.4
+Entire Network,FluSurv-NET,2016-17,2016,43,65+ yr,1.7,0.6
+Entire Network,FluSurv-NET,2016-17,2016,44,65+ yr,2.5,0.8
+Entire Network,FluSurv-NET,2016-17,2016,45,65+ yr,3.3,0.8
+Entire Network,FluSurv-NET,2016-17,2016,46,65+ yr,4.1,0.8
+Entire Network,FluSurv-NET,2016-17,2016,47,65+ yr,5.2,1.1
+Entire Network,FluSurv-NET,2016-17,2016,48,65+ yr,7,1.7
+Entire Network,FluSurv-NET,2016-17,2016,49,65+ yr,9.6,2.6
+Entire Network,FluSurv-NET,2016-17,2016,50,65+ yr,12.7,3.1
+Entire Network,FluSurv-NET,2016-17,2016,51,65+ yr,19.9,7.2
+Entire Network,FluSurv-NET,2016-17,2016,52,65+ yr,36.5,16.6
+Entire Network,FluSurv-NET,2016-17,2017,1,65+ yr,58,21.6
+Entire Network,FluSurv-NET,2016-17,2017,2,65+ yr,76.3,18.3
+Entire Network,FluSurv-NET,2016-17,2017,3,65+ yr,93.9,17.6
+Entire Network,FluSurv-NET,2016-17,2017,4,65+ yr,108.7,14.8
+Entire Network,FluSurv-NET,2016-17,2017,5,65+ yr,125.5,16.8
+Entire Network,FluSurv-NET,2016-17,2017,6,65+ yr,146,20.5
+Entire Network,FluSurv-NET,2016-17,2017,7,65+ yr,167.8,21.9
+Entire Network,FluSurv-NET,2016-17,2017,8,65+ yr,191.2,23.4
+Entire Network,FluSurv-NET,2016-17,2017,9,65+ yr,205.9,14.7
+Entire Network,FluSurv-NET,2016-17,2017,10,65+ yr,218.4,12.5
+Entire Network,FluSurv-NET,2016-17,2017,11,65+ yr,229.9,11.4
+Entire Network,FluSurv-NET,2016-17,2017,12,65+ yr,242.6,12.7
+Entire Network,FluSurv-NET,2016-17,2017,13,65+ yr,253.2,10.6
+Entire Network,FluSurv-NET,2016-17,2017,14,65+ yr,262.1,8.8
+Entire Network,FluSurv-NET,2016-17,2017,15,65+ yr,268.4,6.3
+Entire Network,FluSurv-NET,2016-17,2017,16,65+ yr,272.3,3.9
+Entire Network,FluSurv-NET,2016-17,2017,17,65+ yr,274.8,2.5
+Entire Network,FluSurv-NET,2016-17,2016,40,Overall,0.1,0.1
+Entire Network,FluSurv-NET,2016-17,2016,41,Overall,0.2,0.1
+Entire Network,FluSurv-NET,2016-17,2016,42,Overall,0.3,0.1
+Entire Network,FluSurv-NET,2016-17,2016,43,Overall,0.4,0.1
+Entire Network,FluSurv-NET,2016-17,2016,44,Overall,0.6,0.1
+Entire Network,FluSurv-NET,2016-17,2016,45,Overall,0.8,0.2
+Entire Network,FluSurv-NET,2016-17,2016,46,Overall,1,0.2
+Entire Network,FluSurv-NET,2016-17,2016,47,Overall,1.3,0.3
+Entire Network,FluSurv-NET,2016-17,2016,48,Overall,1.7,0.4
+Entire Network,FluSurv-NET,2016-17,2016,49,Overall,2.3,0.6
+Entire Network,FluSurv-NET,2016-17,2016,50,Overall,3.1,0.8
+Entire Network,FluSurv-NET,2016-17,2016,51,Overall,4.7,1.6
+Entire Network,FluSurv-NET,2016-17,2016,52,Overall,8,3.3
+Entire Network,FluSurv-NET,2016-17,2017,1,Overall,12.2,4.2
+Entire Network,FluSurv-NET,2016-17,2017,2,Overall,16,3.8
+Entire Network,FluSurv-NET,2016-17,2017,3,Overall,19.9,3.8
+Entire Network,FluSurv-NET,2016-17,2017,4,Overall,23.2,3.4
+Entire Network,FluSurv-NET,2016-17,2017,5,Overall,27,3.8
+Entire Network,FluSurv-NET,2016-17,2017,6,Overall,31.7,4.7
+Entire Network,FluSurv-NET,2016-17,2017,7,Overall,36.8,5.1
+Entire Network,FluSurv-NET,2016-17,2017,8,Overall,42.1,5.4
+Entire Network,FluSurv-NET,2016-17,2017,9,Overall,45.4,3.3
+Entire Network,FluSurv-NET,2016-17,2017,10,Overall,48.3,2.9
+Entire Network,FluSurv-NET,2016-17,2017,11,Overall,51.1,2.8
+Entire Network,FluSurv-NET,2016-17,2017,12,Overall,54.2,3.1
+Entire Network,FluSurv-NET,2016-17,2017,13,Overall,57,2.8
+Entire Network,FluSurv-NET,2016-17,2017,14,Overall,59,2
+Entire Network,FluSurv-NET,2016-17,2017,15,Overall,60.4,1.4
+Entire Network,FluSurv-NET,2016-17,2017,16,Overall,61.4,1
+Entire Network,FluSurv-NET,2016-17,2017,17,Overall,62,0.6
+Entire Network,FluSurv-NET,2017-18,2017,40,0-4 yr,0.1,0.1
+Entire Network,FluSurv-NET,2017-18,2017,41,0-4 yr,0.2,0.1
+Entire Network,FluSurv-NET,2017-18,2017,42,0-4 yr,0.2,0.1
+Entire Network,FluSurv-NET,2017-18,2017,43,0-4 yr,0.3,0.1
+Entire Network,FluSurv-NET,2017-18,2017,44,0-4 yr,0.6,0.2
+Entire Network,FluSurv-NET,2017-18,2017,45,0-4 yr,0.7,0.2
+Entire Network,FluSurv-NET,2017-18,2017,46,0-4 yr,1,0.3
+Entire Network,FluSurv-NET,2017-18,2017,47,0-4 yr,1.8,0.7
+Entire Network,FluSurv-NET,2017-18,2017,48,0-4 yr,2.7,0.9
+Entire Network,FluSurv-NET,2017-18,2017,49,0-4 yr,3.3,0.7
+Entire Network,FluSurv-NET,2017-18,2017,50,0-4 yr,5.2,1.9
+Entire Network,FluSurv-NET,2017-18,2017,51,0-4 yr,7.9,2.7
+Entire Network,FluSurv-NET,2017-18,2017,52,0-4 yr,13.7,5.8
+Entire Network,FluSurv-NET,2017-18,2018,1,0-4 yr,18.4,4.6
+Entire Network,FluSurv-NET,2017-18,2018,2,0-4 yr,23.3,5
+Entire Network,FluSurv-NET,2017-18,2018,3,0-4 yr,27.9,4.6
+Entire Network,FluSurv-NET,2017-18,2018,4,0-4 yr,35,7.1
+Entire Network,FluSurv-NET,2017-18,2018,5,0-4 yr,40,5
+Entire Network,FluSurv-NET,2017-18,2018,6,0-4 yr,null,null
+Entire Network,FluSurv-NET,2017-18,2017,40,5-17 yr,0,0
+Entire Network,FluSurv-NET,2017-18,2017,41,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2017-18,2017,42,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2017-18,2017,43,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2017-18,2017,44,5-17 yr,0.2,0.1
+Entire Network,FluSurv-NET,2017-18,2017,45,5-17 yr,0.3,0.1
+Entire Network,FluSurv-NET,2017-18,2017,46,5-17 yr,0.5,0.1
+Entire Network,FluSurv-NET,2017-18,2017,47,5-17 yr,0.7,0.3
+Entire Network,FluSurv-NET,2017-18,2017,48,5-17 yr,0.9,0.2
+Entire Network,FluSurv-NET,2017-18,2017,49,5-17 yr,1.2,0.2
+Entire Network,FluSurv-NET,2017-18,2017,50,5-17 yr,1.7,0.6
+Entire Network,FluSurv-NET,2017-18,2017,51,5-17 yr,2.5,0.8
+Entire Network,FluSurv-NET,2017-18,2017,52,5-17 yr,3.5,1
+Entire Network,FluSurv-NET,2017-18,2018,1,5-17 yr,4.3,0.8
+Entire Network,FluSurv-NET,2017-18,2018,2,5-17 yr,5.9,1.6
+Entire Network,FluSurv-NET,2017-18,2018,3,5-17 yr,7.2,1.3
+Entire Network,FluSurv-NET,2017-18,2018,4,5-17 yr,8.8,1.6
+Entire Network,FluSurv-NET,2017-18,2018,5,5-17 yr,10.3,1.5
+Entire Network,FluSurv-NET,2017-18,2018,6,5-17 yr,null,null
+Entire Network,FluSurv-NET,2017-18,2017,40,18-49 yr,0.1,0.1
+Entire Network,FluSurv-NET,2017-18,2017,41,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2017-18,2017,42,18-49 yr,0.2,0.1
+Entire Network,FluSurv-NET,2017-18,2017,43,18-49 yr,0.2,0.1
+Entire Network,FluSurv-NET,2017-18,2017,44,18-49 yr,0.4,0.1
+Entire Network,FluSurv-NET,2017-18,2017,45,18-49 yr,0.5,0.1
+Entire Network,FluSurv-NET,2017-18,2017,46,18-49 yr,0.7,0.2
+Entire Network,FluSurv-NET,2017-18,2017,47,18-49 yr,1,0.3
+Entire Network,FluSurv-NET,2017-18,2017,48,18-49 yr,1.4,0.4
+Entire Network,FluSurv-NET,2017-18,2017,49,18-49 yr,1.9,0.5
+Entire Network,FluSurv-NET,2017-18,2017,50,18-49 yr,2.7,0.8
+Entire Network,FluSurv-NET,2017-18,2017,51,18-49 yr,4.2,1.5
+Entire Network,FluSurv-NET,2017-18,2017,52,18-49 yr,6.5,2.3
+Entire Network,FluSurv-NET,2017-18,2018,1,18-49 yr,9.1,2.6
+Entire Network,FluSurv-NET,2017-18,2018,2,18-49 yr,12.2,3.1
+Entire Network,FluSurv-NET,2017-18,2018,3,18-49 yr,14.7,2.5
+Entire Network,FluSurv-NET,2017-18,2018,4,18-49 yr,16.9,2.1
+Entire Network,FluSurv-NET,2017-18,2018,5,18-49 yr,18.3,1.4
+Entire Network,FluSurv-NET,2017-18,2018,6,18-49 yr,null,null
+Entire Network,FluSurv-NET,2017-18,2017,40,50-64 yr,0.2,0.2
+Entire Network,FluSurv-NET,2017-18,2017,41,50-64 yr,0.3,0.1
+Entire Network,FluSurv-NET,2017-18,2017,42,50-64 yr,0.5,0.2
+Entire Network,FluSurv-NET,2017-18,2017,43,50-64 yr,0.8,0.3
+Entire Network,FluSurv-NET,2017-18,2017,44,50-64 yr,1.1,0.3
+Entire Network,FluSurv-NET,2017-18,2017,45,50-64 yr,1.6,0.5
+Entire Network,FluSurv-NET,2017-18,2017,46,50-64 yr,2.2,0.6
+Entire Network,FluSurv-NET,2017-18,2017,47,50-64 yr,3.1,0.9
+Entire Network,FluSurv-NET,2017-18,2017,48,50-64 yr,4.1,1
+Entire Network,FluSurv-NET,2017-18,2017,49,50-64 yr,5.4,1.3
+Entire Network,FluSurv-NET,2017-18,2017,50,50-64 yr,8.1,2.7
+Entire Network,FluSurv-NET,2017-18,2017,51,50-64 yr,13.6,5.5
+Entire Network,FluSurv-NET,2017-18,2017,52,50-64 yr,21.4,7.9
+Entire Network,FluSurv-NET,2017-18,2018,1,50-64 yr,32,10.6
+Entire Network,FluSurv-NET,2017-18,2018,2,50-64 yr,41.9,9.8
+Entire Network,FluSurv-NET,2017-18,2018,3,50-64 yr,50.3,8.5
+Entire Network,FluSurv-NET,2017-18,2018,4,50-64 yr,57.5,7.2
+Entire Network,FluSurv-NET,2017-18,2018,5,50-64 yr,63.1,5.6
+Entire Network,FluSurv-NET,2017-18,2018,6,50-64 yr,null,null
+Entire Network,FluSurv-NET,2017-18,2017,40,65+ yr,0.5,0.5
+Entire Network,FluSurv-NET,2017-18,2017,41,65+ yr,1,0.5
+Entire Network,FluSurv-NET,2017-18,2017,42,65+ yr,2.1,1.1
+Entire Network,FluSurv-NET,2017-18,2017,43,65+ yr,3,0.9
+Entire Network,FluSurv-NET,2017-18,2017,44,65+ yr,3.9,0.9
+Entire Network,FluSurv-NET,2017-18,2017,45,65+ yr,5,1.1
+Entire Network,FluSurv-NET,2017-18,2017,46,65+ yr,6.5,1.5
+Entire Network,FluSurv-NET,2017-18,2017,47,65+ yr,9.2,2.7
+Entire Network,FluSurv-NET,2017-18,2017,48,65+ yr,14.2,5
+Entire Network,FluSurv-NET,2017-18,2017,49,65+ yr,20.4,6.2
+Entire Network,FluSurv-NET,2017-18,2017,50,65+ yr,30,9.7
+Entire Network,FluSurv-NET,2017-18,2017,51,65+ yr,49.8,19.8
+Entire Network,FluSurv-NET,2017-18,2017,52,65+ yr,89,39.2
+Entire Network,FluSurv-NET,2017-18,2018,1,65+ yr,135.3,46.3
+Entire Network,FluSurv-NET,2017-18,2018,2,65+ yr,175.8,40.5
+Entire Network,FluSurv-NET,2017-18,2018,3,65+ yr,211.6,35.8
+Entire Network,FluSurv-NET,2017-18,2018,4,65+ yr,242.4,30.8
+Entire Network,FluSurv-NET,2017-18,2018,5,65+ yr,263.6,21.2
+Entire Network,FluSurv-NET,2017-18,2018,6,65+ yr,null,null
+Entire Network,FluSurv-NET,2017-18,2017,40,Overall,0.1,0.1
+Entire Network,FluSurv-NET,2017-18,2017,41,Overall,0.2,0.1
+Entire Network,FluSurv-NET,2017-18,2017,42,Overall,0.5,0.2
+Entire Network,FluSurv-NET,2017-18,2017,43,Overall,0.7,0.2
+Entire Network,FluSurv-NET,2017-18,2017,44,Overall,1,0.3
+Entire Network,FluSurv-NET,2017-18,2017,45,Overall,1.3,0.3
+Entire Network,FluSurv-NET,2017-18,2017,46,Overall,1.8,0.4
+Entire Network,FluSurv-NET,2017-18,2017,47,Overall,2.5,0.7
+Entire Network,FluSurv-NET,2017-18,2017,48,Overall,3.6,1.1
+Entire Network,FluSurv-NET,2017-18,2017,49,Overall,5,1.4
+Entire Network,FluSurv-NET,2017-18,2017,50,Overall,7.4,2.4
+Entire Network,FluSurv-NET,2017-18,2017,51,Overall,12.1,4.7
+Entire Network,FluSurv-NET,2017-18,2017,52,Overall,20.4,8.3
+Entire Network,FluSurv-NET,2017-18,2018,1,Overall,30.3,9.8
+Entire Network,FluSurv-NET,2017-18,2018,2,Overall,39.5,9.3
+Entire Network,FluSurv-NET,2017-18,2018,3,Overall,47.6,8
+Entire Network,FluSurv-NET,2017-18,2018,4,Overall,54.7,7.2
+Entire Network,FluSurv-NET,2017-18,2018,5,Overall,59.9,5.1
+Entire Network,FluSurv-NET,2017-18,2018,6,Overall,null,null
+
+Disclaimer:
+The Influenza Hospitalization Surveillance Network (FluSurv-NET) data are preliminary and subject
+to change as more data become available. All incidence rates are unadjusted.  FluSurv-NET conducts
+population-based surveillance for laboratory-confirmed influenza related hospitalizations in
+children <18 years of age (since 2003-2004 influenza season) and adults (since 2005-2006 influenza
+season).  The FluSurv-NET covers over 70 counties in the 10 Emerging Infections Program (EIP)
+"states (CA, CO, CT, GA, MD, MN, NM, NY, OR, TN) and additional Influenza Hospitalization"
+Surveillance Project (IHSP) states.   The IHSP began during the 2009-2010 season to enhance
+"surveillance during the 2009 H1N1 pandemic.  IHSP sites included IA, ID, MI, OK and SD during"
+"2009-2010 season; ID, MI, OH, OK, RI, and UT during the 2010-2011 season; MI, OH, RI, and UT during"
+"the 2011-2012 season; IA, MI, OH, RI, and UT during the 2012-2013 season; and MI, OH, and UT during"
+"the 2013-2014 , 2014-2015 and 2015-2016 seasons.  Cumulative and weekly unadjusted incidence rates"
+"(per 100,000 population) are calculated using the National Center for Health Statistics' (NCHS)"
+population estimates for the counties included in the surveillance catchment area.  The rates
+"provided are likely to be underestimated as influenza-related hospitalizations can be missed,"
+"either because testing is not performed, or because cases may be attributed to other causes of"
+pneumonia or other common influenza-related complications.

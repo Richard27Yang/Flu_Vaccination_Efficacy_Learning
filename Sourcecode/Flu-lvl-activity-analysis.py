@@ -9,7 +9,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib
 
-filename = 'Flu_lvl_2015-2018.csv'
+filename = '../Datasets/Flu_lvl_2015-2018.csv'
 chunksize = 10 ** 3
 numrow = 0
 chunks = []
@@ -24,8 +24,9 @@ dataframe1['ACTIVITY LEVEL'] = dataframe1['ACTIVITY LEVEL'].str.replace('Level',
 dataframe1['SEASON'] = dataframe1['SEASON'].str.replace('2017-18', '2017')
 dataframe1['SEASON'] = dataframe1['SEASON'].str.replace('2015-16', '2015')
 dataframe1['SEASON'] = dataframe1['SEASON'].str.replace('2016-17', '2016')
+dataframe1['ACTIVITY LEVEL'] = dataframe1['ACTIVITY LEVEL'].astype('int')
+
 df2 = dataframe1.drop(['ACTIVITY LEVEL LABEL', 'WEEKEND'], axis=1)
-df2['ACTIVITY LEVEL'] = df2['ACTIVITY LEVEL'].astype('int')
 
 df2015 = df2.loc[df2['SEASON'] == '2015']
 df2016 = df2.loc[df2['SEASON'] == '2016']
@@ -76,7 +77,7 @@ plt.show()
 bar1 = plt.bar(x,y,color='red')
 bar2 = plt.bar(x,z,color='blue')
 
-
+fig.show()
 #plt.plot(df2015['WEEK'],df2015['ACTIVITY LEVEL'])
 #plt.plot(df2016['WEEK'],df2016['ACTIVITY LEVEL'])
 
@@ -119,3 +120,34 @@ plt.legend(bbox_to_anchor=(0.3, 0.8, 0.6, 0.8), loc=3,
 fig.show()
 ###########################################################
 ###########################################################
+
+
+df_Cal = dataframe1.loc[dataframe1['STATENAME'] == 'California']
+df_Cal
+df_Cal.drop('ACTIVITY LEVEL LABEL', axis =1 )
+df_Cal.set_index('WEEKEND')
+
+# Eg. time series plot
+#ts = pd.Series(np.random.randn(1000), index=pd.date_range('1/1/2000', periods=1000))
+#ts = ts.cumsum()
+#ts.plot()
+
+ts = pd.Series(df_Cal['ACTIVITY LEVEL'].values, index=df_Cal['WEEKEND'])
+ts.plot()
+
+df_Cal['Mycol'] =  pd.to_datetime(df_Cal['WEEKEND'])
+ts = pd.Series(df_Cal['ACTIVITY LEVEL'].values, index=df_Cal['Mycol'])
+
+ar_model = sm.tsa.AR(ts, freq='A')
+pandas_ar_res = ar_model.fit(maxlag=9, method='mle', disp=-1)
+
+from datetime import datetime
+dates = sm.tsa.datetools.dates_from_range('2002m1', length=len(data.endog))
+print(dates)
+
+ar_model = sm.tsa.AR(ts, dates=dates)
+ar_res = ar_model.fit(maxlag=9, method='mle', disp=-1)
+pred = ar_res.predict(start='2016', end='2017')
+print(pred)
+
+

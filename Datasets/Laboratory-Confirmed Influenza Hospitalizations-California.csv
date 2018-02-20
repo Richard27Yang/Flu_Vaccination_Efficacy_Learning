@@ -1,0 +1,135 @@
+"Influenza Hospitalization Rates (per 100,000 population) for the FluSurv-NET Network (downloaded on Feb-14-2018)",,,,,,,
+Influenza Division - Centers for Disease Control and Prevention.,,,,,,,
+CATCHMENT,NETWORK,SEASON,MMWR-YEAR,MMWR-WEEK,AGE CATEGORY,CUMULATIVE RATE,WEEKLY RATE 
+California,EIP,2017-18,2017,40,0-4 yr,0,0
+California,EIP,2017-18,2017,41,0-4 yr,0,0
+California,EIP,2017-18,2017,42,0-4 yr,0,0
+California,EIP,2017-18,2017,43,0-4 yr,0,0
+California,EIP,2017-18,2017,44,0-4 yr,0.5,0.5
+California,EIP,2017-18,2017,45,0-4 yr,0.5,0
+California,EIP,2017-18,2017,46,0-4 yr,1.5,1
+California,EIP,2017-18,2017,47,0-4 yr,3.9,2.5
+California,EIP,2017-18,2017,48,0-4 yr,4.9,1
+California,EIP,2017-18,2017,49,0-4 yr,4.9,0
+California,EIP,2017-18,2017,50,0-4 yr,7.9,2.9
+California,EIP,2017-18,2017,51,0-4 yr,9.8,2
+California,EIP,2017-18,2017,52,0-4 yr,13.8,3.9
+California,EIP,2017-18,2018,1,0-4 yr,18.2,4.4
+California,EIP,2017-18,2018,2,0-4 yr,22.1,3.9
+California,EIP,2017-18,2018,3,0-4 yr,24.6,2.5
+California,EIP,2017-18,2018,4,0-4 yr,26,1.5
+California,EIP,2017-18,2018,5,0-4 yr,26.5,0.5
+California,EIP,2017-18,2018,6,0-4 yr,null,null
+California,EIP,2017-18,2017,40,5-17 yr,0,0
+California,EIP,2017-18,2017,41,5-17 yr,0,0
+California,EIP,2017-18,2017,42,5-17 yr,0,0
+California,EIP,2017-18,2017,43,5-17 yr,0,0
+California,EIP,2017-18,2017,44,5-17 yr,0,0
+California,EIP,2017-18,2017,45,5-17 yr,0.2,0.2
+California,EIP,2017-18,2017,46,5-17 yr,0.6,0.4
+California,EIP,2017-18,2017,47,5-17 yr,0.6,0
+California,EIP,2017-18,2017,48,5-17 yr,0.6,0
+California,EIP,2017-18,2017,49,5-17 yr,1.2,0.6
+California,EIP,2017-18,2017,50,5-17 yr,1.5,0.4
+California,EIP,2017-18,2017,51,5-17 yr,1.9,0.4
+California,EIP,2017-18,2017,52,5-17 yr,3.5,1.5
+California,EIP,2017-18,2018,1,5-17 yr,5.4,1.9
+California,EIP,2017-18,2018,2,5-17 yr,7.9,2.5
+California,EIP,2017-18,2018,3,5-17 yr,8.2,0.4
+California,EIP,2017-18,2018,4,5-17 yr,9,0.8
+California,EIP,2017-18,2018,5,5-17 yr,9,0
+California,EIP,2017-18,2018,6,5-17 yr,null,null
+California,EIP,2017-18,2017,40,18-49 yr,0.1,0.1
+California,EIP,2017-18,2017,41,18-49 yr,0.1,0
+California,EIP,2017-18,2017,42,18-49 yr,0.1,0
+California,EIP,2017-18,2017,43,18-49 yr,0.1,0.1
+California,EIP,2017-18,2017,44,18-49 yr,0.2,0.1
+California,EIP,2017-18,2017,45,18-49 yr,0.6,0.4
+California,EIP,2017-18,2017,46,18-49 yr,0.8,0.2
+California,EIP,2017-18,2017,47,18-49 yr,1.1,0.2
+California,EIP,2017-18,2017,48,18-49 yr,1.2,0.2
+California,EIP,2017-18,2017,49,18-49 yr,1.4,0.2
+California,EIP,2017-18,2017,50,18-49 yr,2,0.6
+California,EIP,2017-18,2017,51,18-49 yr,3.6,1.5
+California,EIP,2017-18,2017,52,18-49 yr,6.4,2.9
+California,EIP,2017-18,2018,1,18-49 yr,9.3,2.9
+California,EIP,2017-18,2018,2,18-49 yr,11.9,2.6
+California,EIP,2017-18,2018,3,18-49 yr,13,1.1
+California,EIP,2017-18,2018,4,18-49 yr,13.5,0.5
+California,EIP,2017-18,2018,5,18-49 yr,13.7,0.2
+California,EIP,2017-18,2018,6,18-49 yr,null,null
+California,EIP,2017-18,2017,40,50-64 yr,0.1,0.1
+California,EIP,2017-18,2017,41,50-64 yr,0.3,0.1
+California,EIP,2017-18,2017,42,50-64 yr,0.7,0.4
+California,EIP,2017-18,2017,43,50-64 yr,1.4,0.7
+California,EIP,2017-18,2017,44,50-64 yr,1.7,0.3
+California,EIP,2017-18,2017,45,50-64 yr,2.3,0.6
+California,EIP,2017-18,2017,46,50-64 yr,2.7,0.4
+California,EIP,2017-18,2017,47,50-64 yr,3.4,0.7
+California,EIP,2017-18,2017,48,50-64 yr,4,0.6
+California,EIP,2017-18,2017,49,50-64 yr,4.6,0.6
+California,EIP,2017-18,2017,50,50-64 yr,7,2.4
+California,EIP,2017-18,2017,51,50-64 yr,12.5,5.6
+California,EIP,2017-18,2017,52,50-64 yr,25.5,13
+California,EIP,2017-18,2018,1,50-64 yr,41.7,16.2
+California,EIP,2017-18,2018,2,50-64 yr,49.5,7.8
+California,EIP,2017-18,2018,3,50-64 yr,54.1,4.6
+California,EIP,2017-18,2018,4,50-64 yr,56.4,2.3
+California,EIP,2017-18,2018,5,50-64 yr,56.8,0.4
+California,EIP,2017-18,2018,6,50-64 yr,null,null
+California,EIP,2017-18,2017,40,65+ yr,1.2,1.2
+California,EIP,2017-18,2017,41,65+ yr,1.9,0.8
+California,EIP,2017-18,2017,42,65+ yr,4.5,2.5
+California,EIP,2017-18,2017,43,65+ yr,7.2,2.7
+California,EIP,2017-18,2017,44,65+ yr,8.8,1.6
+California,EIP,2017-18,2017,45,65+ yr,11.1,2.3
+California,EIP,2017-18,2017,46,65+ yr,12.8,1.8
+California,EIP,2017-18,2017,47,65+ yr,16.3,3.5
+California,EIP,2017-18,2017,48,65+ yr,19.6,3.3
+California,EIP,2017-18,2017,49,65+ yr,24.9,5.3
+California,EIP,2017-18,2017,50,65+ yr,34.4,9.5
+California,EIP,2017-18,2017,51,65+ yr,61.4,27
+California,EIP,2017-18,2017,52,65+ yr,133.6,72.1
+California,EIP,2017-18,2018,1,65+ yr,219.7,86.1
+California,EIP,2017-18,2018,2,65+ yr,265,45.3
+California,EIP,2017-18,2018,3,65+ yr,290.9,25.9
+California,EIP,2017-18,2018,4,65+ yr,299.4,8.6
+California,EIP,2017-18,2018,5,65+ yr,302,2.5
+California,EIP,2017-18,2018,6,65+ yr,null,null
+California,EIP,2017-18,2017,40,Overall,0.2,0.2
+California,EIP,2017-18,2017,41,Overall,0.4,0.1
+California,EIP,2017-18,2017,42,Overall,0.8,0.4
+California,EIP,2017-18,2017,43,Overall,1.3,0.5
+California,EIP,2017-18,2017,44,Overall,1.7,0.4
+California,EIP,2017-18,2017,45,Overall,2.4,0.7
+California,EIP,2017-18,2017,46,Overall,2.9,0.5
+California,EIP,2017-18,2017,47,Overall,3.7,0.9
+California,EIP,2017-18,2017,48,Overall,4.5,0.7
+California,EIP,2017-18,2017,49,Overall,5.5,1
+California,EIP,2017-18,2017,50,Overall,7.8,2.3
+California,EIP,2017-18,2017,51,Overall,13.5,5.7
+California,EIP,2017-18,2017,52,Overall,28,14.4
+California,EIP,2017-18,2018,1,Overall,45.1,17.1
+California,EIP,2017-18,2018,2,Overall,54.8,9.7
+California,EIP,2017-18,2018,3,Overall,60,5.2
+California,EIP,2017-18,2018,4,Overall,62,2.1
+California,EIP,2017-18,2018,5,Overall,62.6,0.6
+California,EIP,2017-18,2018,6,Overall,null,null
+,,,,,,,
+Disclaimer:,,,,,,,
+The Influenza Hospitalization Surveillance Network (FluSurv-NET) data are preliminary and subject,,,,,,,
+to change as more data become available. All incidence rates are unadjusted.  FluSurv-NET conducts,,,,,,,
+population-based surveillance for laboratory-confirmed influenza related hospitalizations in,,,,,,,
+children <18 years of age (since 2003-2004 influenza season) and adults (since 2005-2006 influenza,,,,,,,
+season).  The FluSurv-NET covers over 70 counties in the 10 Emerging Infections Program (EIP),,,,,,,
+"states (CA, CO, CT, GA, MD, MN, NM, NY, OR, TN) and additional Influenza Hospitalization",,,,,,,
+Surveillance Project (IHSP) states.   The IHSP began during the 2009-2010 season to enhance,,,,,,,
+"surveillance during the 2009 H1N1 pandemic.  IHSP sites included IA, ID, MI, OK and SD during",,,,,,,
+"2009-2010 season; ID, MI, OH, OK, RI, and UT during the 2010-2011 season; MI, OH, RI, and UT during",,,,,,,
+"the 2011-2012 season; IA, MI, OH, RI, and UT during the 2012-2013 season; and MI, OH, and UT during",,,,,,,
+"the 2013-2014 , 2014-2015 and 2015-2016 seasons.  Cumulative and weekly unadjusted incidence rates",,,,,,,
+"(per 100,000 population) are calculated using the National Center for Health Statistics' (NCHS)",,,,,,,
+population estimates for the counties included in the surveillance catchment area.  The rates,,,,,,,
+"provided are likely to be underestimated as influenza-related hospitalizations can be missed,",,,,,,,
+"either because testing is not performed, or because cases may be attributed to other causes of",,,,,,,
+pneumonia or other common influenza-related complications.,,,,,,,
